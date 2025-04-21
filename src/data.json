@@ -1,4292 +1,1157 @@
 [
   {
-    "PLAN_CONVENIO": "AMASFAC EMPLEADOS PREVENTIVO 2024",
-    "Compañia final": "AMASFAC",
-    "Canal": "ASEGURADORA"
+    "name": "AMASFAC"
   },
   {
-    "PLAN_CONVENIO": "ASISMED LEALTAD 2024",
-    "Compañia final": "ASISMED",
-    "Canal": "ASEGURADORA"
+    "name": "ASISMED"
   },
   {
-    "PLAN_CONVENIO": "AXA - COLECTIVOS BASICO",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "AXA"
   },
   {
-    "PLAN_CONVENIO": "AXA - COLECTIVOS GRAND",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "BBVA"
   },
   {
-    "PLAN_CONVENIO": "AXA - COLECTIVOS PLATINO",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "BUPA"
   },
   {
-    "PLAN_CONVENIO": "AXA - COLECTIVOS PREMIUM",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "GNP"
   },
   {
-    "PLAN_CONVENIO": "AXA - EMPLEADOS GRAND (EXCESOS 1 Y 2)",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "HDI"
   },
   {
-    "PLAN_CONVENIO": "AXA - EMPLEADOS INTEGRAL (EXCESOS 4 Y 5)",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "HSBC"
   },
   {
-    "PLAN_CONVENIO": "AXA - POLIZAS SIN COBERTURA",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "HSBC JUBILADOS"
   },
   {
-    "PLAN_CONVENIO": "AXA COLECTIVOS PLAN LIMPIEZA",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "LA LATINO"
   },
   {
-    "PLAN_CONVENIO": "AXA EMPLEADOS SC",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "MAPFRE"
   },
   {
-    "PLAN_CONVENIO": "BBVA  SALUD ELEMENTAL",
-    "Compañia final": "BBVA",
-    "Canal": "ASEGURADORA"
+    "name": "MEDDI"
   },
   {
-    "PLAN_CONVENIO": "BBVA PREVENTIVO",
-    "Compañia final": "BBVA",
-    "Canal": "ASEGURADORA"
+    "name": "E-BROKING"
   },
   {
-    "PLAN_CONVENIO": "BBVA SALUD SEGURIDAD",
-    "Compañia final": "BBVA",
-    "Canal": "ASEGURADORA"
+    "name": "PS"
   },
   {
-    "PLAN_CONVENIO": "BUPA SEGUROS COLECTIVOS BASICO PREVENTIVO",
-    "Compañia final": "BUPA",
-    "Canal": "ASEGURADORA"
+    "name": "INTEGRA SALUD"
   },
   {
-    "PLAN_CONVENIO": "BUPA SEGUROS COLECTIVOS MEDIO AFILIACION ESPECIAL",
-    "Compañia final": "BUPA",
-    "Canal": "ASEGURADORA"
+    "name": "INTEGRALIS"
   },
   {
-    "PLAN_CONVENIO": "BUPA SEGUROS ELEMENTAL 2023",
-    "Compañia final": "BUPA",
-    "Canal": "ASEGURADORA"
+    "name": "MAS SERVICIOS"
   },
   {
-    "PLAN_CONVENIO": "GNP CUENTAS CORPORATIVAS DANONE",
-    "Compañia final": "GNP",
-    "Canal": "ASEGURADORA"
+    "name": "NOMINA HABIENTES HSBC"
   },
   {
-    "PLAN_CONVENIO": "GNP EMPLEADOS BASICO",
-    "Compañia final": "GNP",
-    "Canal": "ASEGURADORA"
+    "name": "TQS"
   },
   {
-    "PLAN_CONVENIO": "GNP GMM PYMES BASICO",
-    "Compañia final": "GNP",
-    "Canal": "ASEGURADORA"
+    "name": "VIVA WELL"
   },
   {
-    "PLAN_CONVENIO": "GNP GMM PYMES PLUS",
-    "Compañia final": "GNP",
-    "Canal": "ASEGURADORA"
+    "name": "3M"
   },
   {
-    "PLAN_CONVENIO": "GNP GMM PYMES PREMIUM",
-    "Compañia final": "GNP",
-    "Canal": "ASEGURADORA"
+    "name": "PORTAL 3M"
   },
   {
-    "PLAN_CONVENIO": "GNP GMMI SANTANDER",
-    "Compañia final": "GNP",
-    "Canal": "ASEGURADORA"
+    "name": "INTEGRA RRMX2"
   },
   {
-    "PLAN_CONVENIO": "HDI AGENTES LIMPIEZA 2025-2026",
-    "Compañia final": "HDI",
-    "Canal": "ASEGURADORA"
+    "name": "ABB GENERAL ELECTRIC"
   },
   {
-    "PLAN_CONVENIO": "HSBC EMPLEADOS GASTOS MÉDICOS",
-    "Compañia final": "HSBC",
-    "Canal": "ASEGURADORA"
+    "name": "CAPULLO"
   },
   {
-    "PLAN_CONVENIO": "HSBC JUBILADOS",
-    "Compañia final": "HSBC JUBILADOS",
-    "Canal": "ASEGURADORA"
+    "name": "ADIENT MEXICO"
   },
   {
-    "PLAN_CONVENIO": "HSBC SERVICIO DENTAL",
-    "Compañia final": "HSBC",
-    "Canal": "ASEGURADORA"
+    "name": "ADMINISTRACIÓN ESTRATEGICA"
   },
   {
-    "PLAN_CONVENIO": "HSBC SERVICIO MEDICO EDPM",
-    "Compañia final": "HSBC",
-    "Canal": "ASEGURADORA"
+    "name": "ADYEN MEXICO"
   },
   {
-    "PLAN_CONVENIO": "LA LATINO CLIENTES AFILIACION UPGRADE 2021",
-    "Compañia final": "LA LATINO",
-    "Canal": "ASEGURADORA"
+    "name": "AEROUNION"
   },
   {
-    "PLAN_CONVENIO": "LA LATINO CLIENTES AMPLIO BASICO 2021",
-    "Compañia final": "LA LATINO",
-    "Canal": "ASEGURADORA"
+    "name": "AFIRME"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE COLECTIVOS BASICO",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "PORTAL AFIRME"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE FUNDACION",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "AFORE SURA"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE GMMI BASICO",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "AIT WORLDWIDE"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE GMMI BASICO TC",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "ALD AUTOMOTIVE"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE GMMI ESTANDAR",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "ALPLA TRADING"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE GMMI ESTANDAR TC",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "AMAZON SEG A"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE GMMI PLUS",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "AMAZON SEG B"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE GMMI PLUS TC",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "AMEX"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE PLAN VALOR PACIENTES DENTALIA",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "PORTAL AMEX"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE PMMI ORO",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "AMNU"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE PMMI ORO TC",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "AMWAY"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE PMMI PLATA",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "PORTAL AON FLEX"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE PMMI PLATA TC",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "PORTAL AON MBS"
   },
   {
-    "PLAN_CONVENIO": "MAPFRE SINIESTROS UNICO",
-    "Compañia final": "MAPFRE",
-    "Canal": "ASEGURADORA"
+    "name": "PORTAL AON"
   },
   {
-    "PLAN_CONVENIO": "MEDDI PLAN LIMPIEZA",
-    "Compañia final": "MEDDI",
-    "Canal": "ASEGURADORA"
+    "name": "ARCELOR MITTAL"
   },
   {
-    "PLAN_CONVENIO": "MEMBRESIA DENTAL GNP",
-    "Compañia final": "GNP",
-    "Canal": "ASEGURADORA"
+    "name": "ARTHREX"
   },
   {
-    "PLAN_CONVENIO": "PLAN AXA PROTECCIÓN DENTAL",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "ASOCIACION MEXICANA DE ESTANDARES"
   },
   {
-    "PLAN_CONVENIO": "PLAN AXA PROTECCIÓN DENTAL INTEGRAL",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "ASPEN"
   },
   {
-    "PLAN_CONVENIO": "PLAN PREVENTIVO E-BROKING",
-    "Compañia final": "E-BROKING",
-    "Canal": "ASEGURADORA"
+    "name": "ASTRAZENECA"
   },
   {
-    "PLAN_CONVENIO": "PLAN SEGURO - EMPLEADOS",
-    "Compañia final": "PS",
-    "Canal": "ASEGURADORA"
+    "name": "AT&T"
   },
   {
-    "PLAN_CONVENIO": "PLAN SEGURO GMM COLECTIVOS AMPLIO",
-    "Compañia final": "PS",
-    "Canal": "ASEGURADORA"
+    "name": "AT&T COLABORADORES"
   },
   {
-    "PLAN_CONVENIO": "PLAN SEGURO GMM COLECTIVOS PREVENTIVO",
-    "Compañia final": "PS",
-    "Canal": "ASEGURADORA"
+    "name": "AVON"
   },
   {
-    "PLAN_CONVENIO": "PLAN TRANSICIÓN AXA M1B",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "AWP"
   },
   {
-    "PLAN_CONVENIO": "PLAN VALOR PACIENTES DENTALIA",
-    "Compañia final": "AXA",
-    "Canal": "ASEGURADORA"
+    "name": "AXALTA"
   },
   {
-    "PLAN_CONVENIO": "SALUD CON ATENCION DENTAL + PLAN SEGURO",
-    "Compañia final": "PS",
-    "Canal": "ASEGURADORA"
+    "name": "AXIS LAC"
   },
   {
-    "PLAN_CONVENIO": "SALUD CON ATENCIÓN DENTAL BASICO PLAN SEGURO",
-    "Compañia final": "PS",
-    "Canal": "ASEGURADORA"
+    "name": "AXITY"
   },
   {
-    "PLAN_CONVENIO": "SALUD CON ATENCION DENTAL ESENCIAL PLAN SEGURO",
-    "Compañia final": "PS",
-    "Canal": "ASEGURADORA"
+    "name": "BACHOCO"
   },
   {
-    "PLAN_CONVENIO": "SALUD CON ATENCION DENTAL TOTAL PLAN SEGURO",
-    "Compañia final": "PS",
-    "Canal": "ASEGURADORA"
+    "name": "BANCA MIFEL"
   },
   {
-    "PLAN_CONVENIO": "INTEGRA SALUD",
-    "Compañia final": "INTEGRA SALUD",
-    "Canal": "ASISTENCIADORA"
+    "name": "BASHAM"
   },
   {
-    "PLAN_CONVENIO": "INTEGRA SALUD BOOSTER",
-    "Compañia final": "INTEGRA SALUD",
-    "Canal": "ASISTENCIADORA"
+    "name": "BAYER"
   },
   {
-    "PLAN_CONVENIO": "INTEGRA SALUD CLIENTES AFILIACION",
-    "Compañia final": "INTEGRA SALUD",
-    "Canal": "ASISTENCIADORA"
+    "name": "PORTAL BBVA"
   },
   {
-    "PLAN_CONVENIO": "INTEGRA SALUD CLIENTES MEXICALI",
-    "Compañia final": "INTEGRA SALUD",
-    "Canal": "ASISTENCIADORA"
+    "name": "BEKAERT TRADE"
   },
   {
-    "PLAN_CONVENIO": "INTEGRA SALUD PAQUETE 4",
-    "Compañia final": "INTEGRA SALUD",
-    "Canal": "ASISTENCIADORA"
+    "name": "BH SERVICES"
   },
   {
-    "PLAN_CONVENIO": "INTEGRALIS CLIENTES PREVENTIVO 2024",
-    "Compañia final": "INTEGRALIS",
-    "Canal": "ASISTENCIADORA"
+    "name": "BIMBO"
   },
   {
-    "PLAN_CONVENIO": "MAS SERVICIOS ASEGURADOS LIMPIEZA 2023",
-    "Compañia final": "MAS SERVICIOS",
-    "Canal": "ASISTENCIADORA"
+    "name": "BIOCODEX"
   },
   {
-    "PLAN_CONVENIO": "MAS SERVICIOS UNICO 2025",
-    "Compañia final": "MAS SERVICIOS",
-    "Canal": "ASISTENCIADORA"
+    "name": "BLANQUEAMIENTOS"
   },
   {
-    "PLAN_CONVENIO": "NOMINA HABIENTES HSBC 2024",
-    "Compañia final": "NOMINA HABIENTES HSBC",
-    "Canal": "ASISTENCIADORA"
+    "name": "BLOOMBERG"
   },
   {
-    "PLAN_CONVENIO": "NOMINA HABIENTES HSBC UNICO 2024",
-    "Compañia final": "NOMINA HABIENTES HSBC",
-    "Canal": "ASISTENCIADORA"
+    "name": "GRUPO BOCAR"
   },
   {
-    "PLAN_CONVENIO": "TQS ASEGURADOS LIMPIEZA 2023",
-    "Compañia final": "TQS",
-    "Canal": "ASISTENCIADORA"
+    "name": "BOEHRINGER"
   },
   {
-    "PLAN_CONVENIO": "VIVA WELL CLIENTES AMPLIO",
-    "Compañia final": "VIVA WELL",
-    "Canal": "ASISTENCIADORA"
+    "name": "BRASKEM IDESA"
   },
   {
-    "PLAN_CONVENIO": "VIVA WELL CLIENTES VIP AMPLIO",
-    "Compañia final": "VIVA WELL",
-    "Canal": "ASISTENCIADORA"
+    "name": "BRIDGESTONE"
   },
   {
-    "PLAN_CONVENIO": "VIVA WELL PLAN LIMPIEZA BTOBTOC",
-    "Compañia final": "VIVA WELL",
-    "Canal": "ASISTENCIADORA"
+    "name": "BRIDGESTONE DE MONTERREY"
   },
   {
-    "PLAN_CONVENIO": "3M EMPLEADOS AUTO 2024",
-    "Compañia final": "3M",
-    "Canal": "B&E"
+    "name": "AUTOLABS"
   },
   {
-    "PLAN_CONVENIO": "3M EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "3M",
-    "Canal": "B&E"
+    "name": "BRITISH AMERICAN TOBACCO"
   },
   {
-    "PLAN_CONVENIO": "3M EMPLEADOS SEG 2024",
-    "Compañia final": "3M",
-    "Canal": "B&E"
+    "name": "BROVE"
   },
   {
-    "PLAN_CONVENIO": "3M EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "3M",
-    "Canal": "B&E"
+    "name": "BSI"
   },
   {
-    "PLAN_CONVENIO": "3M PORTAL EMPLEADOS AUTORREALIZACIÓN 2024",
-    "Compañia final": "PORTAL 3M",
-    "Canal": "B&E"
+    "name": "BUFETE DE ASESORIA ADMINISTRATIVA"
   },
   {
-    "PLAN_CONVENIO": "3M PORTAL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PORTAL 3M",
-    "Canal": "B&E"
+    "name": "PORTAL BUK"
   },
   {
-    "PLAN_CONVENIO": "8INTEGRA PLAN FAMILIAR AMPLIO",
-    "Compañia final": "INTEGRA RRMX2",
-    "Canal": "B&E"
+    "name": "BVLGARI"
   },
   {
-    "PLAN_CONVENIO": "ABB NEMA MOTORS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ABB GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "BYD"
   },
   {
-    "PLAN_CONVENIO": "ACH FOODS EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "CAPULLO",
-    "Canal": "B&E"
+    "name": "C&A"
   },
   {
-    "PLAN_CONVENIO": "ACH FOODS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "CAPULLO",
-    "Canal": "B&E"
+    "name": "PORTAL C&A"
   },
   {
-    "PLAN_CONVENIO": "ACH FOODS EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "CAPULLO",
-    "Canal": "B&E"
+    "name": "OXXO"
   },
   {
-    "PLAN_CONVENIO": "ADIENT MEXICO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "ADIENT MEXICO",
-    "Canal": "B&E"
+    "name": "MURGUIA EMPLEADOS"
   },
   {
-    "PLAN_CONVENIO": "ADMINISTRACION ESTRATEGICA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ADMINISTRACIÓN ESTRATEGICA",
-    "Canal": "B&E"
+    "name": "CAPGEMINI"
   },
   {
-    "PLAN_CONVENIO": "ADYEN MEXICO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "ADYEN MEXICO",
-    "Canal": "B&E"
+    "name": "CARESTREAM"
   },
   {
-    "PLAN_CONVENIO": "AEROUNION EMPLEADOS AFILIACION 2024",
-    "Compañia final": "AEROUNION",
-    "Canal": "B&E"
+    "name": "PORTAL CARGILL"
   },
   {
-    "PLAN_CONVENIO": "AEROUNION EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "AEROUNION",
-    "Canal": "B&E"
+    "name": "CASPEX"
   },
   {
-    "PLAN_CONVENIO": "AFIRME PORTAL EMPLEADOS AFILIACION 2023",
-    "Compañia final": "AFIRME",
-    "Canal": "B&E"
+    "name": "CATERPILLAR"
   },
   {
-    "PLAN_CONVENIO": "AFIRME PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PORTAL AFIRME",
-    "Canal": "B&E"
+    "name": "GENERAL ELECTRIC"
   },
   {
-    "PLAN_CONVENIO": "AFIRME PORTAL EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "AFIRME",
-    "Canal": "B&E"
+    "name": "CENTRO INTER"
   },
   {
-    "PLAN_CONVENIO": "AFIRME PORTAL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "AFIRME",
-    "Canal": "B&E"
+    "name": "CHEP MEXICO"
   },
   {
-    "PLAN_CONVENIO": "AFORE SURA EMPLEADOS AFILIACION 2023",
-    "Compañia final": "AFORE SURA",
-    "Canal": "B&E"
+    "name": "CIBERGESTION"
   },
   {
-    "PLAN_CONVENIO": "AFORE SURA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "AFORE SURA",
-    "Canal": "B&E"
+    "name": "PORTAL CIBERGESTION"
   },
   {
-    "PLAN_CONVENIO": "AFORE SURA EMPLEADOS AFILIACION 2025",
-    "Compañia final": "AFORE SURA",
-    "Canal": "B&E"
+    "name": "CIRSE"
   },
   {
-    "PLAN_CONVENIO": "AFORE SURA EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "AFORE SURA",
-    "Canal": "B&E"
+    "name": "CISCO"
   },
   {
-    "PLAN_CONVENIO": "AFORE SURA EMPLEADOS SEGURIDAD 2025",
-    "Compañia final": "AFORE SURA",
-    "Canal": "B&E"
+    "name": "CJ LOGISTICS"
   },
   {
-    "PLAN_CONVENIO": "AIT WORLDWIDE LOGISTICS EMPLEADOS ELEMENTAL 2022",
-    "Compañia final": "AIT WORLDWIDE",
-    "Canal": "B&E"
+    "name": "CLOROX"
   },
   {
-    "PLAN_CONVENIO": "AIT WORLDWIDE LOGISTICS EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "AIT WORLDWIDE",
-    "Canal": "B&E"
+    "name": "CLUB CAMPESTRE"
   },
   {
-    "PLAN_CONVENIO": "ALD AUTOMOTIVE EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "ALD AUTOMOTIVE",
-    "Canal": "B&E"
+    "name": "COLGATE"
   },
   {
-    "PLAN_CONVENIO": "ALD AUTOMOTIVE EMPLEADOS SEGURIDAD 2024-2025",
-    "Compañia final": "ALD AUTOMOTIVE",
-    "Canal": "B&E"
+    "name": "COMERCIAL"
   },
   {
-    "PLAN_CONVENIO": "ALPLA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "ALPLA TRADING",
-    "Canal": "B&E"
+    "name": "COMMSCOPE"
   },
   {
-    "PLAN_CONVENIO": "ALPLA MEXICO EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "ALPLA TRADING",
-    "Canal": "B&E"
+    "name": "COMPASS GROUP"
   },
   {
-    "PLAN_CONVENIO": "ALPLA MEXICO EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "ALPLA TRADING",
-    "Canal": "B&E"
+    "name": "PORTAL COMPASS GROUP"
   },
   {
-    "PLAN_CONVENIO": "ALPLA MEXICO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "ALPLA TRADING",
-    "Canal": "B&E"
+    "name": "COMPUTACENTER"
   },
   {
-    "PLAN_CONVENIO": "AMAZON COLABORADORES SEGMENTO A",
-    "Compañia final": "AMAZON SEG A",
-    "Canal": "B&E"
+    "name": "CONAGRA FOODS"
   },
   {
-    "PLAN_CONVENIO": "AMAZON COLABORADORES SEGMENTO B",
-    "Compañia final": "AMAZON SEG B",
-    "Canal": "B&E"
+    "name": "CONDE NAST"
   },
   {
-    "PLAN_CONVENIO": "AMAZON DEPENDIENTES SEGMENTO A",
-    "Compañia final": "AMAZON SEG A",
-    "Canal": "B&E"
+    "name": "CONSUBANCO"
   },
   {
-    "PLAN_CONVENIO": "AMAZON DEPENDIENTES SEGMENTO B",
-    "Compañia final": "AMAZON SEG B",
-    "Canal": "B&E"
+    "name": "COPARMEX"
   },
   {
-    "PLAN_CONVENIO": "AMERICAN EXPRESS COMPANY EMPLEADOS AFILIACION 2022 ",
-    "Compañia final": "AMEX",
-    "Canal": "B&E"
+    "name": "CORTESIAS"
   },
   {
-    "PLAN_CONVENIO": "AMERICAN EXPRESS COMPANY EMPLEADOS AFILIACION 2023",
-    "Compañia final": "AMEX",
-    "Canal": "B&E"
+    "name": "COSTCO"
   },
   {
-    "PLAN_CONVENIO": "AMERICAN EXPRESS COMPANY EMPLEADOS AFILIACION 2024",
-    "Compañia final": "AMEX",
-    "Canal": "B&E"
+    "name": "COVESTRO"
   },
   {
-    "PLAN_CONVENIO": "AMERICAN EXPRESS PORTAL 2022",
-    "Compañia final": "PORTAL AMEX",
-    "Canal": "B&E"
+    "name": "CREDITO REAL"
   },
   {
-    "PLAN_CONVENIO": "AMERICAN EXPRESS PORTAL 2023",
-    "Compañia final": "PORTAL AMEX",
-    "Canal": "B&E"
+    "name": "CRISTAL JOYAS"
   },
   {
-    "PLAN_CONVENIO": "AMERICAN EXPRESS PORTAL 2024",
-    "Compañia final": "PORTAL AMEX",
-    "Canal": "B&E"
+    "name": "SERVICIOS CUPRUM"
   },
   {
-    "PLAN_CONVENIO": "AMERICAN EXPRESS TRANSACTION DATA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "AMEX",
-    "Canal": "B&E"
+    "name": "DAIKIN"
   },
   {
-    "PLAN_CONVENIO": "AMEX COMPANY EMPLEADOS 2021",
-    "Compañia final": "AMEX",
-    "Canal": "B&E"
+    "name": "DAIMLER"
   },
   {
-    "PLAN_CONVENIO": "AMNU JOVENES AC EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "AMNU",
-    "Canal": "B&E"
+    "name": "DAIMLER SOFOM"
   },
   {
-    "PLAN_CONVENIO": "AMWAY DE MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "AMWAY",
-    "Canal": "B&E"
+    "name": "DART"
   },
   {
-    "PLAN_CONVENIO": "AON FLEX PORTAL EMPLEADOS AFILIACION",
-    "Compañia final": "PORTAL AON FLEX",
-    "Canal": "B&E"
+    "name": "DAVILA LOPEZ"
   },
   {
-    "PLAN_CONVENIO": "AON FLEX PORTAL EMPLEADOS AUTORREALIZACION",
-    "Compañia final": "PORTAL AON FLEX",
-    "Canal": "B&E"
+    "name": "DELOITTE"
   },
   {
-    "PLAN_CONVENIO": "AON FLEX PORTAL EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "PORTAL AON FLEX",
-    "Canal": "B&E"
+    "name": "DEACERO"
   },
   {
-    "PLAN_CONVENIO": "AON FLEX PORTAL EMPLEADOS SEGURIDAD",
-    "Compañia final": "PORTAL AON FLEX",
-    "Canal": "B&E"
+    "name": "DELL"
   },
   {
-    "PLAN_CONVENIO": "AON FLEX PORTAL EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "PORTAL AON FLEX",
-    "Canal": "B&E"
+    "name": "DENTALIA"
   },
   {
-    "PLAN_CONVENIO": "AON PORTAL EMPLEADOS AUTORREALIZACION",
-    "Compañia final": "PORTAL AON MBS",
-    "Canal": "B&E"
+    "name": "DESARROLLADORA MIRA"
   },
   {
-    "PLAN_CONVENIO": "AON PORTAL EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "PORTAL AON MBS",
-    "Canal": "B&E"
+    "name": "DIAVAZ"
   },
   {
-    "PLAN_CONVENIO": "AON PORTAL EMPLEADOS AUTORREALIZACION 2025",
-    "Compañia final": "PORTAL AON",
-    "Canal": "B&E"
+    "name": "DIDICARD"
   },
   {
-    "PLAN_CONVENIO": "AON PORTAL EMPLEADOS SEGURIDAD 2025",
-    "Compañia final": "PORTAL AON",
-    "Canal": "B&E"
+    "name": "DIEBOLD"
   },
   {
-    "PLAN_CONVENIO": "ARCELORMITTAL MEXICO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "ARCELOR MITTAL",
-    "Canal": "B&E"
+    "name": "DISNEY"
   },
   {
-    "PLAN_CONVENIO": "ARCELORMITTAL SERVICIOS DE MONTERREY EMPLEADOS SEGURIDAD",
-    "Compañia final": "ARCELOR MITTAL",
-    "Canal": "B&E"
+    "name": "DLL LEASING"
   },
   {
-    "PLAN_CONVENIO": "ARCELORMITTAL TUBULAR PRODUCTS MONTERREY EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "ARCELOR MITTAL",
-    "Canal": "B&E"
+    "name": "DOBOS"
   },
   {
-    "PLAN_CONVENIO": "ARTHREX EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ARTHREX",
-    "Canal": "B&E"
+    "name": "DONGWON"
   },
   {
-    "PLAN_CONVENIO": "ASOCIACION MEXICANA DE ESTANDARES EMPLEADOS AFILIACION 2023 PRORROGA",
-    "Compañia final": "ASOCIACION MEXICANA DE ESTANDARES",
-    "Canal": "B&E"
+    "name": "IKE AMAZON"
   },
   {
-    "PLAN_CONVENIO": "ASPEN EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ASPEN",
-    "Canal": "B&E"
+    "name": "ECOLAB"
   },
   {
-    "PLAN_CONVENIO": "ASPEN EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "ASPEN",
-    "Canal": "B&E"
+    "name": "EIKOS"
   },
   {
-    "PLAN_CONVENIO": "ASTRAZENECA EMPLEADOS AFILIACION 2022",
-    "Compañia final": "ASTRAZENECA",
-    "Canal": "B&E"
+    "name": "EJECUTIVOS VIP PROSPECTOS"
   },
   {
-    "PLAN_CONVENIO": "ASTRAZENECA EMPLEADOS AFILIACION 2023",
-    "Compañia final": "ASTRAZENECA",
-    "Canal": "B&E"
+    "name": "EPICOR SOFTWARE"
   },
   {
-    "PLAN_CONVENIO": "ASTRAZENECA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ASTRAZENECA",
-    "Canal": "B&E"
+    "name": "EPIROC"
   },
   {
-    "PLAN_CONVENIO": "ASTRAZENECA EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "ASTRAZENECA",
-    "Canal": "B&E"
+    "name": "EQUIPO M165"
   },
   {
-    "PLAN_CONVENIO": "ASTRAZENECA EMPLEADOS AFILIACION PLUS",
-    "Compañia final": "ASTRAZENECA",
-    "Canal": "B&E"
+    "name": "ESENTIA"
   },
   {
-    "PLAN_CONVENIO": "AT&T EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "AT&T",
-    "Canal": "B&E"
+    "name": "ESSITY"
   },
   {
-    "PLAN_CONVENIO": "AT&T EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "AT&T",
-    "Canal": "B&E"
+    "name": "EXCOTARO"
   },
   {
-    "PLAN_CONVENIO": "AT&T EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "AT&T",
-    "Canal": "B&E"
+    "name": "EXCOENG"
   },
   {
-    "PLAN_CONVENIO": "AT&T EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "AT&T",
-    "Canal": "B&E"
+    "name": "EXSE"
   },
   {
-    "PLAN_CONVENIO": "AT&T EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "AT&T",
-    "Canal": "B&E"
+    "name": "EY GDS"
   },
   {
-    "PLAN_CONVENIO": "AT&T GLOBAL NETWORK SEGURIDAD 2024",
-    "Compañia final": "AT&T COLABORADORES",
-    "Canal": "B&E"
+    "name": "MANCERA"
   },
   {
-    "PLAN_CONVENIO": "AT&T GRUPO SERVICIOS Y SOPORTE SEGURIDAD 2024",
-    "Compañia final": "AT&T COLABORADORES",
-    "Canal": "B&E"
+    "name": "CAPRIO"
   },
   {
-    "PLAN_CONVENIO": "AT&T GRUPO SERVICIOS Y SOPORTE SEGURIDAD ENERO 2025-2026",
-    "Compañia final": "AT&T COLABORADORES",
-    "Canal": "B&E"
+    "name": "FERRAGAMO"
   },
   {
-    "PLAN_CONVENIO": "ATT PORTAL EMPLEADOS 2023",
-    "Compañia final": "AT&T",
-    "Canal": "B&E"
+    "name": "FERRERO"
   },
   {
-    "PLAN_CONVENIO": "AVON EMPLEADOS LEALTAD 2024",
-    "Compañia final": "AVON",
-    "Canal": "B&E"
+    "name": "FERROMEX"
   },
   {
-    "PLAN_CONVENIO": "AWP MEXICO CLIENTES 1RA LIMPIEZA 23-24",
-    "Compañia final": "AWP",
-    "Canal": "B&E"
+    "name": "FIDEX"
   },
   {
-    "PLAN_CONVENIO": "AWP MEXICO CLIENTES 2DA LIMPIEZA 23-24",
-    "Compañia final": "AWP",
-    "Canal": "B&E"
+    "name": "FIT STUDIO"
   },
   {
-    "PLAN_CONVENIO": "AXALTA EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "AXALTA",
-    "Canal": "B&E"
+    "name": "FLEX N GATES"
   },
   {
-    "PLAN_CONVENIO": "AXALTA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "AXALTA",
-    "Canal": "B&E"
+    "name": "FLSMIDTH CEMENT MONTERREY"
   },
   {
-    "PLAN_CONVENIO": "AXIS LAC EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "AXIS LAC",
-    "Canal": "B&E"
+    "name": "FLSMIDTH"
   },
   {
-    "PLAN_CONVENIO": "AXITY & GETRONICS EMPLEADOS RECONOCIMIENTO 2021",
-    "Compañia final": "AXITY",
-    "Canal": "B&E"
+    "name": "FORD"
   },
   {
-    "PLAN_CONVENIO": "AXITY EMPLEADOS OPCIONAL RECONOCIMIENTO 2022",
-    "Compañia final": "AXITY",
-    "Canal": "B&E"
+    "name": "FOXCONN"
   },
   {
-    "PLAN_CONVENIO": "AXITY EMPLEADOS OPCIONAL RECONOCIMIENTO 2024",
-    "Compañia final": "AXITY",
-    "Canal": "B&E"
+    "name": "G500"
   },
   {
-    "PLAN_CONVENIO": "AXITY EMPLEADOS RECONOCIMIENTO 2022",
-    "Compañia final": "AXITY",
-    "Canal": "B&E"
+    "name": "GAC"
   },
   {
-    "PLAN_CONVENIO": "AXITY EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "AXITY",
-    "Canal": "B&E"
+    "name": "GAM"
   },
   {
-    "PLAN_CONVENIO": "BACHOCO EMPLEADO AFILIACION 2023",
-    "Compañia final": "BACHOCO",
-    "Canal": "B&E"
+    "name": "GCA DE MEXICO"
   },
   {
-    "PLAN_CONVENIO": "BACHOCO EMPLEADO AFILIACION 2024",
-    "Compañia final": "BACHOCO",
-    "Canal": "B&E"
+    "name": "PORTAL GENERAL ELECTRIC"
   },
   {
-    "PLAN_CONVENIO": "BACHOCO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "BACHOCO",
-    "Canal": "B&E"
+    "name": "COMPARTAMOS"
   },
   {
-    "PLAN_CONVENIO": "BANCA MIFEL PORTAL AUTORREALIZACION 2024",
-    "Compañia final": "BANCA MIFEL",
-    "Canal": "B&E"
+    "name": "GIVAUDAN"
   },
   {
-    "PLAN_CONVENIO": "BANCA MIFEL PORTAL PREVENTIVO 2024",
-    "Compañia final": "BANCA MIFEL",
-    "Canal": "B&E"
+    "name": "GLOBAL ASSURANCE EMPLEADOS"
   },
   {
-    "PLAN_CONVENIO": "BANCA MIFEL PORTAL SEGURIDAD 2024",
-    "Compañia final": "BANCA MIFEL",
-    "Canal": "B&E"
+    "name": "GNP ALPURA"
   },
   {
-    "PLAN_CONVENIO": "BANCA MIFEL1 PORTAL AUTORREALIZACION 2024",
-    "Compañia final": "BANCA MIFEL",
-    "Canal": "B&E"
+    "name": "GR ASESORES"
   },
   {
-    "PLAN_CONVENIO": "BANCA MIFEL1 PORTAL PREVENTIVO 2024 ",
-    "Compañia final": "BANCA MIFEL",
-    "Canal": "B&E"
+    "name": "GRAINGER"
   },
   {
-    "PLAN_CONVENIO": "BANCA MIFEL1 PORTAL SEGURIDAD 2024",
-    "Compañia final": "BANCA MIFEL",
-    "Canal": "B&E"
+    "name": "GRUPO"
   },
   {
-    "PLAN_CONVENIO": "BASHAM & ADEFI EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "BASHAM",
-    "Canal": "B&E"
+    "name": "GRUPO AXO"
   },
   {
-    "PLAN_CONVENIO": "BASHAM PORTAL CLIENTES ATORREALIZACION 2025",
-    "Compañia final": "BASHAM",
-    "Canal": "B&E"
+    "name": "GRUPO BROSE"
   },
   {
-    "PLAN_CONVENIO": "BAYER DE MEXICO EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "BAYER",
-    "Canal": "B&E"
+    "name": "BUREAU VERITAS"
   },
   {
-    "PLAN_CONVENIO": "BAYER EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "BAYER",
-    "Canal": "B&E"
+    "name": "GRUPO COMERCIAL CONTROL"
   },
   {
-    "PLAN_CONVENIO": "BAYER EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "BAYER",
-    "Canal": "B&E"
+    "name": "GRUPO DESC"
   },
   {
-    "PLAN_CONVENIO": "BAYER MONSANTO COMERCIAL EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "BAYER",
-    "Canal": "B&E"
+    "name": "GRUPO DILTEX"
   },
   {
-    "PLAN_CONVENIO": "BBVA PORTAL EMPLEADOS AFILIACIÓN 2024",
-    "Compañia final": "PORTAL BBVA",
-    "Canal": "B&E"
+    "name": "GRUPO FORMULA"
   },
   {
-    "PLAN_CONVENIO": "BBVA PORTAL EMPLEADOS AMPLIO FAMILIAR 2024",
-    "Compañia final": "PORTAL BBVA",
-    "Canal": "B&E"
+    "name": "GRUPO MODELO"
   },
   {
-    "PLAN_CONVENIO": "BBVA PORTAL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PORTAL BBVA",
-    "Canal": "B&E"
+    "name": "GRUPO MOK"
   },
   {
-    "PLAN_CONVENIO": "BEKAERT TRADE MEXICO EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "BEKAERT TRADE",
-    "Canal": "B&E"
+    "name": "GRUPO PHILLIP MORRIS"
   },
   {
-    "PLAN_CONVENIO": "BH SERVICES EMPLEADOS AFILIACIÓN 2025",
-    "Compañia final": "BH SERVICES",
-    "Canal": "B&E"
+    "name": "GRUPO PHOENIX"
   },
   {
-    "PLAN_CONVENIO": "BIMBO EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "BIMBO",
-    "Canal": "B&E"
+    "name": "GRUPO SALINAS"
   },
   {
-    "PLAN_CONVENIO": "BIMBO EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "BIMBO",
-    "Canal": "B&E"
+    "name": "GRUPO SANTILLANA"
   },
   {
-    "PLAN_CONVENIO": "BIMBO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "BIMBO",
-    "Canal": "B&E"
+    "name": "GTA TELECOM"
   },
   {
-    "PLAN_CONVENIO": "BIOCODEX EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "BIOCODEX",
-    "Canal": "B&E"
+    "name": "HANDEL"
   },
   {
-    "PLAN_CONVENIO": "BIOCODEX EMPLEADOS SEGURIDAD 2025",
-    "Compañia final": "BIOCODEX",
-    "Canal": "B&E"
+    "name": "HAPAG-LLOYD"
   },
   {
-    "PLAN_CONVENIO": "BLANQUEAMIENTOS VIP",
-    "Compañia final": "BLANQUEAMIENTOS",
-    "Canal": "B&E"
+    "name": "HARSO TECNOLOGIES"
   },
   {
-    "PLAN_CONVENIO": "BLOOMBERG EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "BLOOMBERG",
-    "Canal": "B&E"
+    "name": "HAVAS MEDIA"
   },
   {
-    "PLAN_CONVENIO": "BOCAR EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GRUPO BOCAR",
-    "Canal": "B&E"
+    "name": "HENKEL"
   },
   {
-    "PLAN_CONVENIO": "BOCAR EMPLEADOS AFILIACION 2024-2025",
-    "Compañia final": "GRUPO BOCAR",
-    "Canal": "B&E"
+    "name": "HERSHEYS"
   },
   {
-    "PLAN_CONVENIO": "BOCAR EMPLEADOS SEGURIDAD 2021",
-    "Compañia final": "GRUPO BOCAR",
-    "Canal": "B&E"
+    "name": "HIGH PERFORMANCE MONTERREY"
   },
   {
-    "PLAN_CONVENIO": "BOCAR EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "GRUPO BOCAR",
-    "Canal": "B&E"
+    "name": "HOLIDAY INN"
   },
   {
-    "PLAN_CONVENIO": "BOCAR EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "GRUPO BOCAR",
-    "Canal": "B&E"
+    "name": "HOMBRE CLAVE"
   },
   {
-    "PLAN_CONVENIO": "BOCAR EMPLEADOS SEGURIDAD 2024-2025",
-    "Compañia final": "GRUPO BOCAR",
-    "Canal": "B&E"
+    "name": "HYUNDAI MOBIS"
   },
   {
-    "PLAN_CONVENIO": "BOEHRINGER EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "BOEHRINGER",
-    "Canal": "B&E"
+    "name": "PORTAL ICA"
   },
   {
-    "PLAN_CONVENIO": "BOEHRINGER EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "BOEHRINGER",
-    "Canal": "B&E"
+    "name": "ICONN"
   },
   {
-    "PLAN_CONVENIO": "BRASKEM IDESA EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "BRASKEM IDESA",
-    "Canal": "B&E"
+    "name": "IENOVA"
   },
   {
-    "PLAN_CONVENIO": "BRASKEM IDESA EMPLEADOS ELEMENTAL 2025-2026",
-    "Compañia final": "BRASKEM IDESA",
-    "Canal": "B&E"
+    "name": "IMMUNOTEC"
   },
   {
-    "PLAN_CONVENIO": "BRIDGESTONE DE MEXICO EMPLEADO AFILIACION 2023",
-    "Compañia final": "BRIDGESTONE",
-    "Canal": "B&E"
+    "name": "IMS GEAR"
   },
   {
-    "PLAN_CONVENIO": "BRIDGESTONE DE MEXICO EMPLEADO AFILIACION 2024-2025",
-    "Compañia final": "BRIDGESTONE DE MONTERREY",
-    "Canal": "B&E"
+    "name": "INDITEX"
   },
   {
-    "PLAN_CONVENIO": "BRIDGESTONE DE MEXICO EMPLEADOS AUTORREALIZACION 2024-2025",
-    "Compañia final": "BRIDGESTONE DE MONTERREY",
-    "Canal": "B&E"
+    "name": "PORTAL INDITEX"
   },
   {
-    "PLAN_CONVENIO": "BRIDGESTONE NEUMATICOS DE MONTERREY EMPLEADOS AFILIACION 2022",
-    "Compañia final": "BRIDGESTONE DE MONTERREY",
-    "Canal": "B&E"
+    "name": "INETUM"
   },
   {
-    "PLAN_CONVENIO": "BRIDGESTONE NEUMATICOS DE MONTERREY EMPLEADOS AFILIACION 2023",
-    "Compañia final": "BRIDGESTONE DE MONTERREY",
-    "Canal": "B&E"
+    "name": "PORTAL INFOSYS"
   },
   {
-    "PLAN_CONVENIO": "BRIDGESTONE NEUMATICOS DE MONTERREY EMPLEADOS AFILIACION 2024",
-    "Compañia final": "BRIDGESTONE DE MONTERREY",
-    "Canal": "B&E"
+    "name": "INNOMOTICS MOTORS"
   },
   {
-    "PLAN_CONVENIO": "BRIGHT MACHINES EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "AUTOLABS",
-    "Canal": "B&E"
+    "name": "PORTAL INTEGRA RRMX2"
   },
   {
-    "PLAN_CONVENIO": "BRITISH AMERICAN TOBACCO EMPLEADOS AFILIACION 2022",
-    "Compañia final": "BRITISH AMERICAN TOBACCO",
-    "Canal": "B&E"
+    "name": "INTERESSE EMPLEADOS"
   },
   {
-    "PLAN_CONVENIO": "BRITISH AMERICAN TOBACCO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "BRITISH AMERICAN TOBACCO",
-    "Canal": "B&E"
+    "name": "INVEX"
   },
   {
-    "PLAN_CONVENIO": "BRITISH AMERICAN TOBACCO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "BRITISH AMERICAN TOBACCO",
-    "Canal": "B&E"
+    "name": "INVEX-AMMPER"
   },
   {
-    "PLAN_CONVENIO": "BRITISH AMERICAN TOBACCO EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "BRITISH AMERICAN TOBACCO",
-    "Canal": "B&E"
+    "name": "QUINTILES"
   },
   {
-    "PLAN_CONVENIO": "BROVE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "BROVE",
-    "Canal": "B&E"
+    "name": "IQSEC"
   },
   {
-    "PLAN_CONVENIO": "BROVE EMPLEADOS AMPLIO 2024",
-    "Compañia final": "BROVE",
-    "Canal": "B&E"
+    "name": "ITALMEX"
   },
   {
-    "PLAN_CONVENIO": "BROVE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "BROVE",
-    "Canal": "B&E"
+    "name": "ITESM"
   },
   {
-    "PLAN_CONVENIO": "BSI EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "BSI",
-    "Canal": "B&E"
+    "name": "JABNIA"
   },
   {
-    "PLAN_CONVENIO": "BUFETE DE ASESORIA ADMINISTRATIVA EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "BUFETE DE ASESORIA ADMINISTRATIVA",
-    "Canal": "B&E"
+    "name": "JAFRA"
   },
   {
-    "PLAN_CONVENIO": "BUK PORTAL EMPLEADOS AMPLIO 2024",
-    "Compañia final": "PORTAL BUK",
-    "Canal": "B&E"
+    "name": "JATCO"
   },
   {
-    "PLAN_CONVENIO": "BVLGARI EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "BVLGARI",
-    "Canal": "B&E"
+    "name": "JOHN CRANE"
   },
   {
-    "PLAN_CONVENIO": "BYD EMPLEADOS AFILIACION 2024",
-    "Compañia final": "BYD",
-    "Canal": "B&E"
+    "name": "JOHN DEERE"
   },
   {
-    "PLAN_CONVENIO": "C&A MEXICO PORTAL EMPLEADOS AFILIACIÓN 2024",
-    "Compañia final": "C&A",
-    "Canal": "B&E"
+    "name": "JUGOS DEL VALLE"
   },
   {
-    "PLAN_CONVENIO": "C&A MEXICO PORTAL EMPLEADOS AUTO 2024",
-    "Compañia final": "PORTAL C&A",
-    "Canal": "B&E"
+    "name": "JUMBO"
   },
   {
-    "PLAN_CONVENIO": "C&A MEXICO PORTAL EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "C&A",
-    "Canal": "B&E"
+    "name": "JUSTIA"
   },
   {
-    "PLAN_CONVENIO": "CADENA COMERCIAL OXXO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "OXXO",
-    "Canal": "B&E"
+    "name": "KATIMI CONSULTORES"
   },
   {
-    "PLAN_CONVENIO": "CADENA COMERCIAL OXXO EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "OXXO",
-    "Canal": "B&E"
+    "name": "KIA MOTORS"
   },
   {
-    "PLAN_CONVENIO": "CALMANERA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "MURGUIA EMPLEADOS",
-    "Canal": "B&E"
+    "name": "KIDZANIA"
   },
   {
-    "PLAN_CONVENIO": "CALMANERA EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "MURGUIA EMPLEADOS",
-    "Canal": "B&E"
+    "name": "INNOVACION EN AISLAMIENTO"
   },
   {
-    "PLAN_CONVENIO": "CALMANERA EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MURGUIA EMPLEADOS",
-    "Canal": "B&E"
+    "name": "KOBLENZ"
   },
   {
-    "PLAN_CONVENIO": "CAPGEMINI EMPLEADOS SEGURIDAD 360 2024-2025",
-    "Compañia final": "CAPGEMINI",
-    "Canal": "B&E"
+    "name": "KPMG"
   },
   {
-    "PLAN_CONVENIO": "CARESTREAM DENTAL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "CARESTREAM",
-    "Canal": "B&E"
+    "name": "KRISPY KREME"
   },
   {
-    "PLAN_CONVENIO": "CARGILL PORTAL EMPLEADOS AUTORREALIZACION 2021",
-    "Compañia final": "PORTAL CARGILL",
-    "Canal": "B&E"
+    "name": "KRONES"
   },
   {
-    "PLAN_CONVENIO": "CARGILL PORTAL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PORTAL CARGILL",
-    "Canal": "B&E"
+    "name": "LA EUROPEA"
   },
   {
-    "PLAN_CONVENIO": "CASPEX EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "CASPEX",
-    "Canal": "B&E"
+    "name": "IGLESIA DE JESUCRISTO"
   },
   {
-    "PLAN_CONVENIO": "CATERPILLAR EMPLEADOS AFILIACION 2022",
-    "Compañia final": "CATERPILLAR",
-    "Canal": "B&E"
+    "name": "LALA"
   },
   {
-    "PLAN_CONVENIO": "CATERPILLAR EMPLEADOS AFILIACION 2024",
-    "Compañia final": "CATERPILLAR",
-    "Canal": "B&E"
+    "name": "LEASEPLAN"
   },
   {
-    "PLAN_CONVENIO": "CENTRO DE INGENIERIA AVANZADA EN TURBOMAQUINAS EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "LESAFFRE"
   },
   {
-    "PLAN_CONVENIO": "CENTRO INTER EMPLEADOS AFILIACION 2024",
-    "Compañia final": "CENTRO INTER",
-    "Canal": "B&E"
+    "name": "LINCOLN"
   },
   {
-    "PLAN_CONVENIO": "CENTRO INTER EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "CENTRO INTER",
-    "Canal": "B&E"
+    "name": "LOCKTON EMPLEADOS"
   },
   {
-    "PLAN_CONVENIO": "CENTRO INTER EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "CENTRO INTER",
-    "Canal": "B&E"
+    "name": "LOGIC INFO"
   },
   {
-    "PLAN_CONVENIO": "CENTRO INTER EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "CENTRO INTER",
-    "Canal": "B&E"
+    "name": "LOTTUS"
   },
   {
-    "PLAN_CONVENIO": "CENTRO INTER FAMILY & FRIENDS PORTAL AFILIACION 2024",
-    "Compañia final": "CENTRO INTER",
-    "Canal": "B&E"
+    "name": "LOUIS VUITTON"
   },
   {
-    "PLAN_CONVENIO": "CENTRO INTER FAMILY & FRIENDS PORTAL AUTORREALIZACION 2024",
-    "Compañia final": "CENTRO INTER",
-    "Canal": "B&E"
+    "name": "MANOHAY"
   },
   {
-    "PLAN_CONVENIO": "CENTRO INTER FAMILY & FRIENDS PORTAL SEGURIDAD 2024",
-    "Compañia final": "CENTRO INTER",
-    "Canal": "B&E"
+    "name": "MANPOWER"
   },
   {
-    "PLAN_CONVENIO": "CHEP MEXICO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "CHEP MEXICO",
-    "Canal": "B&E"
+    "name": "MARRIOTT"
   },
   {
-    "PLAN_CONVENIO": "CHEP MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "CHEP MEXICO",
-    "Canal": "B&E"
+    "name": "MARY KAY"
   },
   {
-    "PLAN_CONVENIO": "CIBERGESTION EMPLEADOS LEALTAD 2024",
-    "Compañia final": "CIBERGESTION",
-    "Canal": "B&E"
+    "name": "MASTERCARD"
   },
   {
-    "PLAN_CONVENIO": "CIBERGESTIÓN PORTAL EMPLEADOS AMPLIO 2024",
-    "Compañia final": "PORTAL CIBERGESTION",
-    "Canal": "B&E"
+    "name": "MAXIMA DISTINCION"
   },
   {
-    "PLAN_CONVENIO": "CIRSE NEUTRO NEGOCIOS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "CIRSE",
-    "Canal": "B&E"
+    "name": "MC DONALDS"
   },
   {
-    "PLAN_CONVENIO": "CISCO EMPLEADOS AFILIACION",
-    "Compañia final": "CISCO",
-    "Canal": "B&E"
+    "name": "MEGACABLE"
   },
   {
-    "PLAN_CONVENIO": "CISCO EMPLEADOS AFILIACION 2022",
-    "Compañia final": "CISCO",
-    "Canal": "B&E"
+    "name": "MERCER MARSH"
   },
   {
-    "PLAN_CONVENIO": "CISCO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "CISCO",
-    "Canal": "B&E"
+    "name": "MERITOR"
   },
   {
-    "PLAN_CONVENIO": "CISCO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "CISCO",
-    "Canal": "B&E"
+    "name": "PORTAL MEXIS"
   },
   {
-    "PLAN_CONVENIO": "CJ LOGISTICS MEXICO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "CJ LOGISTICS",
-    "Canal": "B&E"
+    "name": "MI DOC ONLINE"
   },
   {
-    "PLAN_CONVENIO": "CLOROX EMPLEADOS AMPLIO 2024",
-    "Compañia final": "CLOROX",
-    "Canal": "B&E"
+    "name": "MIMETICA"
   },
   {
-    "PLAN_CONVENIO": "CLUB CAMPESTRE DE MONTERREY EMPLEADOS AFILIACION 2024",
-    "Compañia final": "CLUB CAMPESTRE",
-    "Canal": "B&E"
+    "name": "OPERASON / LOCKTON HMO"
   },
   {
-    "PLAN_CONVENIO": "COLGATE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "COLGATE",
-    "Canal": "B&E"
+    "name": "MINTH"
   },
   {
-    "PLAN_CONVENIO": "COLGATE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "COLGATE",
-    "Canal": "B&E"
+    "name": "MIRAI ADVISORY"
   },
   {
-    "PLAN_CONVENIO": "COLGATE EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "COLGATE",
-    "Canal": "B&E"
+    "name": "MIZUHO BANK"
   },
   {
-    "PLAN_CONVENIO": "COMERCIAL PLUS",
-    "Compañia final": "COMERCIAL",
-    "Canal": "B&E"
+    "name": "MRP"
   },
   {
-    "PLAN_CONVENIO": "COMMSCOPE/ARRIS EMPLEADOS AFILIACION 2023",
-    "Compañia final": "COMMSCOPE",
-    "Canal": "B&E"
+    "name": "MSD EMPLEADOS"
   },
   {
-    "PLAN_CONVENIO": "COMMSCOPE/ARRIS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "COMMSCOPE",
-    "Canal": "B&E"
+    "name": "MTP"
   },
   {
-    "PLAN_CONVENIO": "COMPASS GROUP EMPLEADOS AFILIACION 2023",
-    "Compañia final": "COMPASS GROUP",
-    "Canal": "B&E"
+    "name": "BANK OF TOKYO"
   },
   {
-    "PLAN_CONVENIO": "COMPASS GROUP EMPLEADOS AFILIACION 2024",
-    "Compañia final": "COMPASS GROUP",
-    "Canal": "B&E"
+    "name": "NARMX"
   },
   {
-    "PLAN_CONVENIO": "COMPASS GROUP PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "COMPASS GROUP",
-    "Canal": "B&E"
+    "name": "NATURA"
   },
   {
-    "PLAN_CONVENIO": "COMPASS GROUP PORTAL EMPLEADOS AUTORREALIZACIÓN 2024",
-    "Compañia final": "PORTAL COMPASS GROUP",
-    "Canal": "B&E"
+    "name": "PORTAL NATURA"
   },
   {
-    "PLAN_CONVENIO": "COMPUTACENTER EMPLEADOS AMPLIO 2024",
-    "Compañia final": "COMPUTACENTER",
-    "Canal": "B&E"
+    "name": "PORTAL NATURGY"
   },
   {
-    "PLAN_CONVENIO": "CONAGRA FOODS EMPLEADOS AFILIACION 2023",
-    "Compañia final": "CONAGRA FOODS",
-    "Canal": "B&E"
+    "name": "NEOGEN"
   },
   {
-    "PLAN_CONVENIO": "CONAGRA FOODS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "CONAGRA FOODS",
-    "Canal": "B&E"
+    "name": "NEWELL"
   },
   {
-    "PLAN_CONVENIO": "CONDE NAST EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "CONDE NAST",
-    "Canal": "B&E"
+    "name": "NEXEO"
   },
   {
-    "PLAN_CONVENIO": "CONSUBANCO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "CONSUBANCO",
-    "Canal": "B&E"
+    "name": "NIPPON SEIKI DE MEXICO"
   },
   {
-    "PLAN_CONVENIO": "CONSUBANCO EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "CONSUBANCO",
-    "Canal": "B&E"
+    "name": "NOMITEK"
   },
   {
-    "PLAN_CONVENIO": "COPARMEX EMPLEADOS AFILIACION 2023",
-    "Compañia final": "COPARMEX",
-    "Canal": "B&E"
+    "name": "NOVARTIS"
   },
   {
-    "PLAN_CONVENIO": "COPARMEX EMPLEADOS AFILIACION 2024",
-    "Compañia final": "COPARMEX",
-    "Canal": "B&E"
+    "name": "NTT DATA"
   },
   {
-    "PLAN_CONVENIO": "CORTESIAS LIMPIEZAS DENTALIA",
-    "Compañia final": "CORTESIAS",
-    "Canal": "B&E"
+    "name": "NXP"
   },
   {
-    "PLAN_CONVENIO": "COSTCO EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "COSTCO",
-    "Canal": "B&E"
+    "name": "ODYSSEY"
   },
   {
-    "PLAN_CONVENIO": "COVESTRO EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "COVESTRO",
-    "Canal": "B&E"
+    "name": "OLIVARES"
   },
   {
-    "PLAN_CONVENIO": "COVESTRO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "COVESTRO",
-    "Canal": "B&E"
+    "name": "OML"
   },
   {
-    "PLAN_CONVENIO": "CREDITO REAL PORTAL COLABORADORES ESPECIAL",
-    "Compañia final": "CREDITO REAL",
-    "Canal": "B&E"
+    "name": "OPERACIONES LOGISTICAS RHS"
   },
   {
-    "PLAN_CONVENIO": "CRISTAL JOYAS EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "CRISTAL JOYAS",
-    "Canal": "B&E"
+    "name": "OPERBUS"
   },
   {
-    "PLAN_CONVENIO": "CRISTAL JOYAS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "CRISTAL JOYAS",
-    "Canal": "B&E"
+    "name": "ORACLE"
   },
   {
-    "PLAN_CONVENIO": "CUPRUM EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SERVICIOS CUPRUM",
-    "Canal": "B&E"
+    "name": "ORGANON"
   },
   {
-    "PLAN_CONVENIO": "DAIKIN MEXICO EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "DAIKIN",
-    "Canal": "B&E"
+    "name": "PAQUETEXPRESS"
   },
   {
-    "PLAN_CONVENIO": "DAIKIN SLP EMPLEADOS ELEMENTAL 2021",
-    "Compañia final": "DAIKIN",
-    "Canal": "B&E"
+    "name": "PARAMOUNT PICTURES"
   },
   {
-    "PLAN_CONVENIO": "DAIKIN SLP EMPLEADOS ELEMENTAL 2023",
-    "Compañia final": "DAIKIN",
-    "Canal": "B&E"
+    "name": "PAYCLIP"
   },
   {
-    "PLAN_CONVENIO": "DAIKIN SLP EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "DAIKIN",
-    "Canal": "B&E"
+    "name": "PENGUIEN RANDOM"
   },
   {
-    "PLAN_CONVENIO": "DAIMLER EMPLEADOS AFILIACION 2021",
-    "Compañia final": "DAIMLER",
-    "Canal": "B&E"
+    "name": "PENSKE"
   },
   {
-    "PLAN_CONVENIO": "DAIMLER FINANCIAL SERVICES MEXICO AFILIACION 2024-2025",
-    "Compañia final": "DAIMLER",
-    "Canal": "B&E"
+    "name": "PEÑAFIEL"
   },
   {
-    "PLAN_CONVENIO": "DAIMLER MANUFACTURAS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "DAIMLER",
-    "Canal": "B&E"
+    "name": "PERNOD"
   },
   {
-    "PLAN_CONVENIO": "DAIMLER MEXICO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "DAIMLER",
-    "Canal": "B&E"
+    "name": "PETRONAS"
   },
   {
-    "PLAN_CONVENIO": "DAIMLER SOFOM EMPLEADOS AFILIACION 2024-2025",
-    "Compañia final": "DAIMLER SOFOM",
-    "Canal": "B&E"
+    "name": "PHILIPS"
   },
   {
-    "PLAN_CONVENIO": "DART EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "DART",
-    "Canal": "B&E"
+    "name": "QUALAMEX"
   },
   {
-    "PLAN_CONVENIO": "DART EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "DART",
-    "Canal": "B&E"
+    "name": "PLANUS"
   },
   {
-    "PLAN_CONVENIO": "DAVILA LOPEZ AGENTES DE SEGUROS AFILIACION 2024",
-    "Compañia final": "DAVILA LOPEZ",
-    "Canal": "B&E"
+    "name": "PLAYER GROUP"
   },
   {
-    "PLAN_CONVENIO": "DAVILA LOPEZ AGENTES DE SEGUROS AFILIACION 2025-2026",
-    "Compañia final": "DAVILA LOPEZ",
-    "Canal": "B&E"
+    "name": "SODEXO"
   },
   {
-    "PLAN_CONVENIO": "DCG DELIVERY EMPLEADOS  AUTORREALIZACION 2023",
-    "Compañia final": "DELOITTE",
-    "Canal": "B&E"
+    "name": "POLAK"
   },
   {
-    "PLAN_CONVENIO": "DCG DELIVERY EMPLEADOS AUTORREALIZACION 2021",
-    "Compañia final": "DELOITTE",
-    "Canal": "B&E"
+    "name": "PORTAL NTT DATA"
   },
   {
-    "PLAN_CONVENIO": "DEACERO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "DEACERO",
-    "Canal": "B&E"
+    "name": "PPG"
   },
   {
-    "PLAN_CONVENIO": "DEACERO EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "DEACERO",
-    "Canal": "B&E"
+    "name": "PRINCIPAL"
   },
   {
-    "PLAN_CONVENIO": "DEACERO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "DEACERO",
-    "Canal": "B&E"
+    "name": "PRINT EMPLEADOS"
   },
   {
-    "PLAN_CONVENIO": "DELIVERY EMPLEADOS  AUTORREALIZACION 2024",
-    "Compañia final": "DELOITTE",
-    "Canal": "B&E"
+    "name": "PROCESAR"
   },
   {
-    "PLAN_CONVENIO": "DELL PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "DELL",
-    "Canal": "B&E"
+    "name": "PORTAL P&G"
   },
   {
-    "PLAN_CONVENIO": "DELL PORTAL EMPLEADOS AUTORREALIZACIÓN",
-    "Compañia final": "DELL",
-    "Canal": "B&E"
+    "name": "PROMAX"
   },
   {
-    "PLAN_CONVENIO": "DELL PORTAL EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "DELL",
-    "Canal": "B&E"
+    "name": "PROSA"
   },
   {
-    "PLAN_CONVENIO": "DELL PORTAL EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "DELL",
-    "Canal": "B&E"
+    "name": "PROTEXA"
   },
   {
-    "PLAN_CONVENIO": "DELL PORTAL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "DELL",
-    "Canal": "B&E"
+    "name": "PROVEEDORA DE INTELIGENCIA GENESIS"
   },
   {
-    "PLAN_CONVENIO": "DELL PORTAL EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "DELL",
-    "Canal": "B&E"
+    "name": "PULSIAM"
   },
   {
-    "PLAN_CONVENIO": "DELOITTE GALAZ EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "DELOITTE",
-    "Canal": "B&E"
+    "name": "PUMA"
   },
   {
-    "PLAN_CONVENIO": "DELOITTE GALAZ EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "DELOITTE",
-    "Canal": "B&E"
+    "name": "PURATOS"
   },
   {
-    "PLAN_CONVENIO": "DELOITTE GALAZ EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "DELOITTE",
-    "Canal": "B&E"
+    "name": "QUALCOMM"
   },
   {
-    "PLAN_CONVENIO": "DELOITTE GALAZ SOCIOS AUTORREALIZACION 2024",
-    "Compañia final": "DELOITTE",
-    "Canal": "B&E"
+    "name": "RACKSPACE"
   },
   {
-    "PLAN_CONVENIO": "DENTALIA FAMILIARES EXTENSIVO AUTORREALIZACION FEBRERO 2024",
-    "Compañia final": "DENTALIA",
-    "Canal": "B&E"
+    "name": "RAPISCAN SYSTEMS"
   },
   {
-    "PLAN_CONVENIO": "DENTALIA FAMILIARES EXTENSIVO AUTORREALIZACION FEBRERO 2025",
-    "Compañia final": "DENTALIA",
-    "Canal": "B&E"
+    "name": "RAUDA CONSULTORES"
   },
   {
-    "PLAN_CONVENIO": "DENTALIA FAMILIARES EXTENSIVO AUTORREALIZACION JUNIO 2024",
-    "Compañia final": "DENTALIA",
-    "Canal": "B&E"
+    "name": "RED VOUCHER"
   },
   {
-    "PLAN_CONVENIO": "DENTALIA FAMILIARES EXTENSIVO AUTORREALIZACION OCTUBRE 2023",
-    "Compañia final": "DENTALIA",
-    "Canal": "B&E"
+    "name": "REINA MADRE"
   },
   {
-    "PLAN_CONVENIO": "DENTALIA FAMILIARES EXTENSIVO AUTORREALIZACION OCTUBRE 2024",
-    "Compañia final": "DENTALIA",
-    "Canal": "B&E"
+    "name": "REVISIONES EN SITIO COMERCIAL"
   },
   {
-    "PLAN_CONVENIO": "DENTALIA FAMILIARES PLUS",
-    "Compañia final": "DENTALIA",
-    "Canal": "B&E"
+    "name": "RHEEM"
   },
   {
-    "PLAN_CONVENIO": "DENTALIA PLUS",
-    "Compañia final": "DENTALIA",
-    "Canal": "B&E"
+    "name": "RIOT GAMES"
   },
   {
-    "PLAN_CONVENIO": "DESARROLLADORA MIRA EMPLEADOS PREVENTIVO 2024",
-    "Compañia final": "DESARROLLADORA MIRA",
-    "Canal": "B&E"
+    "name": "RISOUL"
   },
   {
-    "PLAN_CONVENIO": "DIAVAZ EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "DIAVAZ",
-    "Canal": "B&E"
+    "name": "ROCA DESARROLLOS"
   },
   {
-    "PLAN_CONVENIO": "DIDICARD CLIENTES PREVENTIVO 2024",
-    "Compañia final": "DIDICARD",
-    "Canal": "B&E"
+    "name": "ROCHE"
   },
   {
-    "PLAN_CONVENIO": "DIEBOLD EMPLEADOS AFILIACION 2022",
-    "Compañia final": "DIEBOLD",
-    "Canal": "B&E"
+    "name": "SEGUROS SURA"
   },
   {
-    "PLAN_CONVENIO": "DIEBOLD EMPLEADOS AFILIACION 2023",
-    "Compañia final": "DIEBOLD",
-    "Canal": "B&E"
+    "name": "SABIC"
   },
   {
-    "PLAN_CONVENIO": "DIEBOLD EMPLEADOS AFILIACION 2024",
-    "Compañia final": "DIEBOLD",
-    "Canal": "B&E"
+    "name": "SALLES, SAINZ-GRANT THORNTON"
   },
   {
-    "PLAN_CONVENIO": "DISNEY EMPLEADOS AUTORREALIZACION 2021",
-    "Compañia final": "DISNEY",
-    "Canal": "B&E"
+    "name": "SANDEN"
   },
   {
-    "PLAN_CONVENIO": "DISNEY EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "DISNEY",
-    "Canal": "B&E"
+    "name": "SANDOZ"
   },
   {
-    "PLAN_CONVENIO": "DISNEY EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "DISNEY",
-    "Canal": "B&E"
+    "name": "SANOFI"
   },
   {
-    "PLAN_CONVENIO": "DLL LEASING EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "DLL LEASING",
-    "Canal": "B&E"
+    "name": "PORTAL SANTANDER"
   },
   {
-    "PLAN_CONVENIO": "DOBOS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "DOBOS",
-    "Canal": "B&E"
+    "name": "SANTANDER"
   },
   {
-    "PLAN_CONVENIO": "DOBOS EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "DOBOS",
-    "Canal": "B&E"
+    "name": "SAS-INSTITUTE"
   },
   {
-    "PLAN_CONVENIO": "DONGWON EMPLEADOS ELEMENTAL 2022",
-    "Compañia final": "DONGWON",
-    "Canal": "B&E"
+    "name": "SCALABLE PRESS"
   },
   {
-    "PLAN_CONVENIO": "DONGWON MEXICO EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "DONGWON",
-    "Canal": "B&E"
+    "name": "SEKURA"
   },
   {
-    "PLAN_CONVENIO": "DSP EMPLEADOS ESPACIAL 2024",
-    "Compañia final": "IKE AMAZON",
-    "Canal": "B&E"
+    "name": "PORTAL SEKURA"
   },
   {
-    "PLAN_CONVENIO": "ECOLAB EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ECOLAB",
-    "Canal": "B&E"
+    "name": "SERADRI"
   },
   {
-    "PLAN_CONVENIO": "ECOLAB EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "ECOLAB",
-    "Canal": "B&E"
+    "name": "SGS"
   },
   {
-    "PLAN_CONVENIO": "ECOLAB EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "ECOLAB",
-    "Canal": "B&E"
+    "name": "SHURE MEXICO"
   },
   {
-    "PLAN_CONVENIO": "ECOLAB EMPLEADOS AUTORREALIZACION 2024\t",
-    "Compañia final": "ECOLAB",
-    "Canal": "B&E"
+    "name": "SIEMENS"
   },
   {
-    "PLAN_CONVENIO": "ECOLAB EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "ECOLAB",
-    "Canal": "B&E"
+    "name": "PORTAL SIEMENS"
   },
   {
-    "PLAN_CONVENIO": "EIKOS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "EIKOS",
-    "Canal": "B&E"
+    "name": "SIKA MEXICANA"
   },
   {
-    "PLAN_CONVENIO": "EJECUTIVOS VIP PROSPECTOS",
-    "Compañia final": "EJECUTIVOS VIP PROSPECTOS",
-    "Canal": "B&E"
+    "name": "SILVER TORCH"
   },
   {
-    "PLAN_CONVENIO": "EPICOR EMPLEADOS AFILIACION 2024",
-    "Compañia final": "EPICOR SOFTWARE",
-    "Canal": "B&E"
+    "name": "SMURFIT"
   },
   {
-    "PLAN_CONVENIO": "EPICOR EMPLEADOS AFILIACION 2024-2025",
-    "Compañia final": "EPICOR SOFTWARE",
-    "Canal": "B&E"
+    "name": "SOAINT MEXICO"
   },
   {
-    "PLAN_CONVENIO": "EPICOR EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "EPICOR SOFTWARE",
-    "Canal": "B&E"
+    "name": "SOCIOS"
   },
   {
-    "PLAN_CONVENIO": "EPICOR EMPLEADOS AUTORREALIZACION 2024-2025",
-    "Compañia final": "EPICOR SOFTWARE",
-    "Canal": "B&E"
+    "name": "SOFIA SEGUROS"
   },
   {
-    "PLAN_CONVENIO": "EPIROC EMPLEADOS AMPLIO 2024-2025",
-    "Compañia final": "EPIROC",
-    "Canal": "B&E"
+    "name": "SOLUCIONES HEXAGONO"
   },
   {
-    "PLAN_CONVENIO": "EQUIPO M165 EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "EQUIPO M165",
-    "Canal": "B&E"
+    "name": "SOPORTE EN PARALELO"
   },
   {
-    "PLAN_CONVENIO": "ESENTIA EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "ESENTIA",
-    "Canal": "B&E"
+    "name": "STRYKER"
   },
   {
-    "PLAN_CONVENIO": "ESSITY EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ESSITY",
-    "Canal": "B&E"
+    "name": "SUNGWOO"
   },
   {
-    "PLAN_CONVENIO": "EXCOENG EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "EXCOTARO",
-    "Canal": "B&E"
+    "name": "SWISS RE"
   },
   {
-    "PLAN_CONVENIO": "EXCOENG EMPLEADOS SEGURIDAD 2025",
-    "Compañia final": "EXCOENG",
-    "Canal": "B&E"
+    "name": "TBC"
   },
   {
-    "PLAN_CONVENIO": "EXSE ASESORES EN SEGUROS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "EXSE",
-    "Canal": "B&E"
+    "name": "TEADS"
   },
   {
-    "PLAN_CONVENIO": "EY GDS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "EY GDS",
-    "Canal": "B&E"
+    "name": "TECH DATA"
   },
   {
-    "PLAN_CONVENIO": "EY-MANCERA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "MANCERA",
-    "Canal": "B&E"
+    "name": "TECH VENTURES"
   },
   {
-    "PLAN_CONVENIO": "FABRIZIO CAPRIO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "CAPRIO",
-    "Canal": "B&E"
+    "name": "TECMILENIO"
   },
   {
-    "PLAN_CONVENIO": "FABRIZIO CAPRIO EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "CAPRIO",
-    "Canal": "B&E"
+    "name": "TELEFONICA PEGASO"
   },
   {
-    "PLAN_CONVENIO": "FABRIZIO CAPRIO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "CAPRIO",
-    "Canal": "B&E"
+    "name": "TERUMO"
   },
   {
-    "PLAN_CONVENIO": "FABRIZIO CAPRIO EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "CAPRIO",
-    "Canal": "B&E"
+    "name": "TESA TAPE"
   },
   {
-    "PLAN_CONVENIO": "FERRAGAMO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "FERRAGAMO",
-    "Canal": "B&E"
+    "name": "THE ANGLO"
   },
   {
-    "PLAN_CONVENIO": "FERRERO DE MEXICO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "FERRERO",
-    "Canal": "B&E"
+    "name": "THYSSENKRUPP"
   },
   {
-    "PLAN_CONVENIO": "FERRERO DE MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "FERRERO",
-    "Canal": "B&E"
+    "name": "TIFFANY & CO MEXICO"
   },
   {
-    "PLAN_CONVENIO": "FERROMEX PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "FERROMEX",
-    "Canal": "B&E"
+    "name": "TORRE MAYOR Y REICHMANN"
   },
   {
-    "PLAN_CONVENIO": "FERROMEX PORTAL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "FERROMEX",
-    "Canal": "B&E"
+    "name": "TURISMO MEDICO FRONTERA"
   },
   {
-    "PLAN_CONVENIO": "FIDEX EMPLEADOS AFILIACION 2024",
-    "Compañia final": "FIDEX",
-    "Canal": "B&E"
+    "name": "TUTO ENERGY"
   },
   {
-    "PLAN_CONVENIO": "FIT STUDIO FSC EMPLEADOS LIMPIEZA 2024",
-    "Compañia final": "FIT STUDIO",
-    "Canal": "B&E"
+    "name": "URS CORPORATION"
   },
   {
-    "PLAN_CONVENIO": "FIT STUDIO FSC EMPLEADOS LIMPIEZA 2025-2026",
-    "Compañia final": "FIT STUDIO",
-    "Canal": "B&E"
+    "name": "VALVOLINE"
   },
   {
-    "PLAN_CONVENIO": "FLEX N GATE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "FLEX N GATES",
-    "Canal": "B&E"
+    "name": "VECTOR"
   },
   {
-    "PLAN_CONVENIO": "FLEX N GATE EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "FLEX N GATES",
-    "Canal": "B&E"
+    "name": "VEEDA"
   },
   {
-    "PLAN_CONVENIO": "FLEX N GATES EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "FLEX N GATES",
-    "Canal": "B&E"
+    "name": "VENTAGIUM"
   },
   {
-    "PLAN_CONVENIO": "FLEX N GATES EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "FLEX N GATES",
-    "Canal": "B&E"
+    "name": "VICTOR EQUIPMENT"
   },
   {
-    "PLAN_CONVENIO": "FLSMIDTH CEMENT MEXICO EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "FLSMIDTH CEMENT MONTERREY",
-    "Canal": "B&E"
+    "name": "VISKASE DEL NORTE"
   },
   {
-    "PLAN_CONVENIO": "FLSMIDTH EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "FLSMIDTH",
-    "Canal": "B&E"
+    "name": "VITOL"
   },
   {
-    "PLAN_CONVENIO": "FORD EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "FORD",
-    "Canal": "B&E"
+    "name": "PORTAL VIVA AEROBUS"
   },
   {
-    "PLAN_CONVENIO": "FORD EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "FORD",
-    "Canal": "B&E"
+    "name": "VOLARIS"
   },
   {
-    "PLAN_CONVENIO": "FORD EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "FORD",
-    "Canal": "B&E"
+    "name": "VOORDEL"
   },
   {
-    "PLAN_CONVENIO": "FORD EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "FORD",
-    "Canal": "B&E"
+    "name": "WASSERMAN"
   },
   {
-    "PLAN_CONVENIO": "FOXCONN EMPLEADOS AFILIACION 2025-2026 ",
-    "Compañia final": "FOXCONN",
-    "Canal": "B&E"
+    "name": "WEBBER ASESORES"
   },
   {
-    "PLAN_CONVENIO": "G500 EMPLEADOS AFILIACION 2024",
-    "Compañia final": "G500",
-    "Canal": "B&E"
+    "name": "PORTAL WEBBER"
   },
   {
-    "PLAN_CONVENIO": "G500 EMPLEADOS SEGURIDAD",
-    "Compañia final": "G500",
-    "Canal": "B&E"
+    "name": "WERNER"
   },
   {
-    "PLAN_CONVENIO": "GAC EMPLEADOS AFILIACION 2024-2025",
-    "Compañia final": "GAC",
-    "Canal": "B&E"
+    "name": "WEWORK"
   },
   {
-    "PLAN_CONVENIO": "GAM EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "GAM",
-    "Canal": "B&E"
+    "name": "WS SERVICIOS DE MEXICO"
   },
   {
-    "PLAN_CONVENIO": "GCA DE MEXICO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "GCA DE MEXICO",
-    "Canal": "B&E"
+    "name": "WILLIAMS SCOTSMAN"
   },
   {
-    "PLAN_CONVENIO": "GE INTERNATIONAL MEXICO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "PORTAL WILLIS"
   },
   {
-    "PLAN_CONVENIO": "GE SISTEMAS MEDICOS DE MEXICO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "WITZENMANN"
   },
   {
-    "PLAN_CONVENIO": "GE TECHNOLOGY SOLUTIONS MEXICO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "WORLEY"
   },
   {
-    "PLAN_CONVENIO": "GENERAL ELECTRIC EMPLEADOS AFILIACION 2024",
-    "Compañia final": "GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "XIGNUX"
   },
   {
-    "PLAN_CONVENIO": "GENERAL ELECTRIC EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "ZENDERE"
   },
   {
-    "PLAN_CONVENIO": "GENERAL ELECTRIC PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PORTAL GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "ZSCALER"
   },
   {
-    "PLAN_CONVENIO": "GENERAL ELECTRIC PORTAL EMPLEADOS AFILIACION 2025",
-    "Compañia final": "PORTAL GENERAL ELECTRIC",
-    "Canal": "B&E"
+    "name": "MEMBRESIA FAMILIAR DENTALIA"
   },
   {
-    "PLAN_CONVENIO": "GENTERA EMPLEADOS UPGRADE 2 2022",
-    "Compañia final": "COMPARTAMOS",
-    "Canal": "B&E"
+    "name": "MEBRESIA DENTALIA"
   },
   {
-    "PLAN_CONVENIO": "GIVAUDAN DE MEXICO PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "GIVAUDAN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GLOBAL ASSURANCE EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "GLOBAL ASSURANCE EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GLOBAL ASSURANCE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "GLOBAL ASSURANCE EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GLOBAL ASSURANCE EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "GLOBAL ASSURANCE EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GLOBAL ASSURANCE EMPLEADOS RECONOCIMIENTO MENSUAL 2024",
-    "Compañia final": "GLOBAL ASSURANCE EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GNP ALPURA",
-    "Compañia final": "GNP ALPURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GR ASESORES PORTAL EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GR ASESORES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GR ASESORES PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "GR ASESORES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRAINGER EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GRAINGER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRAINGER EMPLEADOS AFILIACION 2024",
-    "Compañia final": "GRAINGER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO AXO AFILIACION 2025",
-    "Compañia final": "GRUPO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO AXO AUTOREALIZACION 2025",
-    "Compañia final": "GRUPO AXO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO AXO ELEMENTAL 2025",
-    "Compañia final": "GRUPO AXO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO BROSE EMPLEADOS SEGURIDAD 2024-2025",
-    "Compañia final": "GRUPO BROSE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO BUREAU VERITAS EMPLEADOS ELEMENTAL 2023",
-    "Compañia final": "BUREAU VERITAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO COMERCIAL CONTROL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "GRUPO COMERCIAL CONTROL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO COMERCIAL CONTROL EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "GRUPO COMERCIAL CONTROL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO COMERCIAL CONTROL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "GRUPO COMERCIAL CONTROL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO DESC PORTAL EMPLEADOS AMPLIO 2023",
-    "Compañia final": "GRUPO DESC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO DESC PORTAL EMPLEADOS AMPLIO 2024",
-    "Compañia final": "GRUPO DESC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO DESC PORTAL EMPLEADOS AUTORREALIZACIÓN 2023",
-    "Compañia final": "GRUPO DESC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO DESC PORTAL EMPLEADOS AUTORREALIZACIÓN 2024",
-    "Compañia final": "GRUPO DESC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO DESC PORTAL EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "GRUPO DESC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO DESC PORTAL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "GRUPO DESC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO DILTEX PORTAL EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "GRUPO DILTEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO FORMULA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "GRUPO FORMULA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO FORMULA EMPLEADOS AUTORREALIZACION 2024-2025",
-    "Compañia final": "GRUPO FORMULA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO FORMULA EMPLEADOS ELEMENTAL 2024 2025",
-    "Compañia final": "GRUPO FORMULA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO FORMULA EMPLEADOS ELEMETAL 2024",
-    "Compañia final": "GRUPO FORMULA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS AFILIACION 2022",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS RECONOCIMIENTO 2023",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS RECONOCIMIENTO 2025-2026",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MODELO EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "GRUPO MODELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO MOK LIMPIEZAS 2024",
-    "Compañia final": "GRUPO MOK",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO PHILLIP MORRIS EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "GRUPO PHILLIP MORRIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO PHOENIX EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "GRUPO PHOENIX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PLAN INTERMEDIO",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PLAN LIMPIEZA 2025",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PORTAL AVANZADO",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PORTAL AVANZADO 2025",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PORTAL BASICO",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PORTAL BASICO 2025",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PORTAL INTERMEDIO",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SALINAS PORTAL INTERMEDIO 2025",
-    "Compañia final": "GRUPO SALINAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SANTILLANA EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "GRUPO SANTILLANA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GRUPO SANTILLANA EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "GRUPO SANTILLANA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "GTA TELECOM DE MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "GTA TELECOM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HANDEL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "HANDEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HAPAG LLOYD EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "HAPAG-LLOYD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HARSO TECNOLOGIES EMPLEADOS AFILIACION 2024",
-    "Compañia final": "HARSO TECNOLOGIES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HAVAS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "HAVAS MEDIA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HAVAS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "HAVAS MEDIA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HDI",
-    "Compañia final": "HDI",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HENKEL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "HENKEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HENKEL EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "HENKEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HENKEL FAMILIARES AFILIACION 2024",
-    "Compañia final": "HENKEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HENKEL FAMILIARES AFILIACION 2025-2026",
-    "Compañia final": "HENKEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS AFILIACION 2024",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS AUTORREALIZACION 2021",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HERSHEYS & HERSMEX EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "HERSHEYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HIGH PERFORMANCE PLASTICS EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "HIGH PERFORMANCE MONTERREY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HOLIDAY INN EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "HOLIDAY INN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HOLIDAY INN EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "HOLIDAY INN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HOMBRE CLAVE",
-    "Compañia final": "HOMBRE CLAVE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HOMBRE CLAVE RECONOCIMIENTO 70",
-    "Compañia final": "HOMBRE CLAVE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "HYUNDAI MOBIS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "HYUNDAI MOBIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICA PORTAL AMPLIO FAMILIAR 4 PERSONAS 2024",
-    "Compañia final": "PORTAL ICA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICA PORTAL EMPLEADOS AUTORREALIZACIÓN 2024",
-    "Compañia final": "PORTAL ICA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICONN EMPLEADOS AFILIACION 2023",
-    "Compañia final": "ICONN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICONN EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ICONN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICONN EMPLEADOS LIMPIEZA 2024",
-    "Compañia final": "ICONN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICONN EMPLEADOS PREVENTIVO 2024",
-    "Compañia final": "ICONN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICONN SEVEN ELEVEN EMPLEADOS AFILIACION",
-    "Compañia final": "ICONN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ICONN SINDICALIZADOS AFILIACION 2024",
-    "Compañia final": "ICONN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "IENOVA EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "IENOVA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "IENOVA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "IENOVA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "IMMUNOTEC EMPLEADOS AFILIACION 2024",
-    "Compañia final": "IMMUNOTEC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "IMS GEAR EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "IMS GEAR",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INDITEX EMPLEADOS AFILIACION 2021",
-    "Compañia final": "INDITEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INDITEX EMPLEADOS AFILIACION 2023",
-    "Compañia final": "INDITEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INDITEX EMPLEADOS AFILIACION 2024",
-    "Compañia final": "INDITEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INDITEX PORTAL EMPLEADOS AFILIACION 2023",
-    "Compañia final": "PORTAL INDITEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INDITEX PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PORTAL INDITEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INETUM EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "INETUM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INETUM HOLDING EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "INETUM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INFOSYS PORTAL EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "PORTAL INFOSYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INFOSYS PORTAL EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "PORTAL INFOSYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INFOSYS PORTAL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PORTAL INFOSYS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INNOMOTICS MOTORS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "INNOMOTICS MOTORS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INTEGRA PORTAL EMPLEADOS AMPLIO PLAN FAMILIAR 2024",
-    "Compañia final": "INTEGRA SALUD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INTEGRA RRMX2 PORTAL GENERAL ELEMENTAL",
-    "Compañia final": "PORTAL INTEGRA RRMX2",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INTEGRA RRMX2 PORTAL GENERAL SEGURIDAD 2024",
-    "Compañia final": "INTEGRA RRMX2",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INTERESSE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "INTERESSE EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INTERESSE EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "INTERESSE EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INVEX EMPLEADOS RECONOCIMIENTO 2022",
-    "Compañia final": "INVEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INVEX EMPLEADOS RECONOCIMIENTO 2023",
-    "Compañia final": "INVEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INVEX EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "INVEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "INVEX-AMMPER EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "INVEX-AMMPER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "IPP EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "QUINTILES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "IQSEC EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "IQSEC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "IQSEC EMPLEADOS AUTORREALIZACION 2024-2025",
-    "Compañia final": "IQSEC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITALMEX EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ITALMEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITALMEX EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "ITALMEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITALMEX EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "ITALMEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITESM CATEDRATICOS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITESM CATEDRATICOS FAMILIARES AFILIACION 2024",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITESM EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITESM EMPLEADOS INDIVIDUAL AFILIACION 2022",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITESM FAMILIARES AFILIACION 2024",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITESM FAMILIARES AFILIACION 2025-2026",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ITESM INDIVUDUAL AFILIACION 2025-2026",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JABNIA EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "JABNIA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JAFRA & SERVIDAY EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "JAFRA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JAFRA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "JAFRA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JATCO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "JATCO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JOHN CRANE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "JOHN CRANE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JOHN DEERE EMPLEADOS AFILIACION 2023",
-    "Compañia final": "JOHN DEERE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JOHN DEERE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "JOHN DEERE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JUGOS DEL VALLE EMPLEADOS AFILIACION 2024 ",
-    "Compañia final": "JUGOS DEL VALLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JUGOS DEL VALLE EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "JUGOS DEL VALLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JUGOS DEL VALLE EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "JUGOS DEL VALLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JUGOS DEL VALLE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "JUGOS DEL VALLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JUGOS DEL VALLE EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "JUGOS DEL VALLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JUMBO MURGUIA PORTAL EMPLEADOS AMPLIO 2024",
-    "Compañia final": "JUMBO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "JUSTIA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "JUSTIA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KATIMI EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "KATIMI CONSULTORES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KIA MEXICO EMPLEADOS PREVENTIVO 2024",
-    "Compañia final": "KIA MOTORS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KIA MEXICO VENTAS AFILIACION 2023",
-    "Compañia final": "KIA MOTORS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KIDZANIA EMPLEADOS AFILIACION 2023",
-    "Compañia final": "KIDZANIA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KIDZANIA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "KIDZANIA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KINGSPAN EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "INNOVACION EN AISLAMIENTO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KINGSPAN EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "INNOVACION EN AISLAMIENTO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KOBLENZ EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "KOBLENZ",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KPMG EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "KPMG",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KPMG EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "KPMG",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KPMG EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "KPMG",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KPMG EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "KPMG",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KRISPY KREME EMPLEADOS AFILIACION 2023",
-    "Compañia final": "KRISPY KREME",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KRISPY KREME EMPLEADOS AFILIACION 2024",
-    "Compañia final": "KRISPY KREME",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KRISPY KREME EMPLEADOS AMPLIO 2024",
-    "Compañia final": "KRISPY KREME",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KRONES EMPLEADOS RECONOCIMIENTO 2023",
-    "Compañia final": "KRONES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "KRONES EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "KRONES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LA EUROPEA EMPLEADOS AMPLIO 2022",
-    "Compañia final": "LA EUROPEA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LA EUROPEA EMPLEADOS AMPLIO 2024",
-    "Compañia final": "LA EUROPEA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LA EUROPEA EMPLEADOS AMPLIO 2025-2026",
-    "Compañia final": "LA EUROPEA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LA EUROPEA EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "LA EUROPEA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LA IGLESIA DE JESUCRISTO DE LOS SANTOS DE LOS ULTIMOS DIAS EN MEXICO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "IGLESIA DE JESUCRISTO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LA IGLESIA DE JESUCRISTO DE LOS SANTOS DE LOS ULTIMOS DIAS EN MEXICO EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "IGLESIA DE JESUCRISTO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LA IGLESIA DE JESUCRISTO DE LOS SANTOS DE LOS ULTIMOS DIAS EN MEXICO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "IGLESIA DE JESUCRISTO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LALA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "LALA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LEASEPLAN EMPLEADOS SEGURIDAD 2024-2025",
-    "Compañia final": "LEASEPLAN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LESAFFRE EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "LESAFFRE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LINCOLN EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "LINCOLN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LOCKTON EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "LOCKTON EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LOCKTON EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "LOCKTON EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LOCKTON PRODUCTORES EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "LOCKTON EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LOGICINFO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "LOGIC INFO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LOTTUS UANE EMPLEADOS ESPECIAL 2024",
-    "Compañia final": "LOTTUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LOTTUS UANE EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "LOTTUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "LOUIS VUITTON EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "LOUIS VUITTON",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MANCERA SOCIOS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MANCERA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MANCERA TALENTO EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "MANCERA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MANCERA TALENTO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MANCERA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MANOHAY EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MANOHAY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MANPOWER CORPORATIVO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "MANPOWER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MANPOWER CORPORATIVO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MANPOWER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MARRIOTT EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MARRIOTT",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MARRIOTT EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "MARRIOTT",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MARY KAY EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MARY KAY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MASTERCARD EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MASTERCARD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MASTERCARD EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "MASTERCARD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MASTERCARD EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MASTERCARD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MAXIMA DISTINCION EMPLEADOS AFILIACION 2024",
-    "Compañia final": "MAXIMA DISTINCION",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MC DONALDS EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "MC DONALDS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MC DONALDS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MC DONALDS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MC DONALDS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MC DONALDS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MEGACABLE EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "MEGACABLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MEGACABLE EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MEGACABLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MERCEDES BENZ EMPLEADOS AFILIACION 2023",
-    "Compañia final": "DAIMLER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MERCEDES BENZ EMPLEADOS AFILIACION 2024",
-    "Compañia final": "DAIMLER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MERCER MARSH EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "MERCER MARSH",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MERCER MARSH EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "MERCER MARSH",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MERCER MARSH EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "MERCER MARSH",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MERITOR EMPLEADOS AFILIACION 2023",
-    "Compañia final": "MERITOR",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MERITOR EMPLEADOS AFILIACION 2024",
-    "Compañia final": "MERITOR",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MEXIS PORTAL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PORTAL MEXIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MI DOC ONLINE LIMPIEZA 2024",
-    "Compañia final": "MI DOC ONLINE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MIMETICA EMPLEADOS AMPLIO 2024",
-    "Compañia final": "MIMETICA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MINAS DE ORO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "OPERASON / LOCKTON HMO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MINAS DE ORO EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "OPERASON / LOCKTON HMO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MINAS DE ORO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "OPERASON / LOCKTON HMO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MINTH COATINGS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MINTH",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MINTH MEXICO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MINTH",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MIRAI ADVISORY EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "MIRAI ADVISORY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MIZUHO BANK EMPLEADOS AFILIACION 2025",
-    "Compañia final": "MIZUHO BANK",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MRP EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "MRP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MRP EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MRP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MSD EMPLEADOS AFILIACION 2024",
-    "Compañia final": "MSD EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MTP EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "MTP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MTP EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "MTP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MUFG BANK MEXICO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "BANK OF TOKYO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NARMX EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "NARMX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NATURA EMPLEADOS LEALTAD 2024",
-    "Compañia final": "NATURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NATURA PORTAL SEGURIDAD UPGRADE",
-    "Compañia final": "PORTAL NATURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NATURA PORTAL SEGURIDAD UPGRADE 2024",
-    "Compañia final": "PORTAL NATURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NATURGY PORTAL EMPLEADOS SEGURIDAD 2025",
-    "Compañia final": "PORTAL NATURGY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NEOGEN EMPLEADOS AMPLIO 2024",
-    "Compañia final": "NEOGEN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NEWELL BRANDS DE MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "NEWELL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NEXEO EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "NEXEO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NIPPON SEIKI DE MEXICO EMPLEADOS AMPLIO 2024",
-    "Compañia final": "NIPPON SEIKI DE MEXICO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NOMITEK EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "NOMITEK",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NOVARTIS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "NOVARTIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NTT DATA EMPLEADOS AMPLIO 2023",
-    "Compañia final": "NTT DATA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NTT DATA EMPLEADOS AMPLIO 2024",
-    "Compañia final": "NTT DATA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NXP SEMICONDUCTORS EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "NXP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "NXP SEMICONDUCTORS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "NXP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ODYSSEY EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "ODYSSEY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "OLIVARES EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "OLIVARES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "OLIVARES UP GRADE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "OLIVARES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "OLIVARES UP GRADE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "OLIVARES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "OML EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "OML",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "OPERACIONES LOGISTICAS RHS EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "OPERACIONES LOGISTICAS RHS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "OPERBUS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "OPERBUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "OPERBUS EMPLEADOS ELEMENTAL 2023",
-    "Compañia final": "OPERBUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ORACLE EMPLEADOS AFILIACION 2023",
-    "Compañia final": "ORACLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ORACLE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ORACLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ORACLE EMPLEADOS AUTORREALIZACION 2021",
-    "Compañia final": "ORACLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ORACLE EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "ORACLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ORACLE EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "ORACLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ORACLE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "ORACLE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ORGANON EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ORGANON",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PAQUETEXPRESS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PAQUETEXPRESS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PAQUETEXPRESS EMPLEADOS AMPLIO 2024",
-    "Compañia final": "PAQUETEXPRESS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PAQUETEXPRESS OPCIONALES AFILIACION 2024",
-    "Compañia final": "PAQUETEXPRESS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PAQUETEXPRESS OPCIONALES AMPLIO 2024",
-    "Compañia final": "PAQUETEXPRESS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PARAMOUNT PICTURES EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PARAMOUNT PICTURES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PAYCLIP EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PAYCLIP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PAYCLIP EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "PAYCLIP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PAYCLIP EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PAYCLIP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PENGUIN RANDOM EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PENGUIEN RANDOM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PENSKE EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PENSKE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PENSKE EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "PENSKE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PEÑAFIEL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PEÑAFIEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PEÑAFIEL EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "PEÑAFIEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PERNOD EMPLEADOS AUTORREALIZACION 2021",
-    "Compañia final": "PERNOD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PERNOD EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "PERNOD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PERNOD EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PERNOD",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PETRONAS EMPLEADOS ESPECIAL 2024",
-    "Compañia final": "PETRONAS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PHILIPS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PHILIPS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PHILIPS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PHILIPS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PHILIPS EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "PHILIPS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PHILIPS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PHILIPS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PHILIPS FAMILIARES AFILIACION 2024",
-    "Compañia final": "PHILIPS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PHILIPS FAMILIARES AUTORREALIZACION 2024",
-    "Compañia final": "PHILIPS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PHILIPS FAMILIARES SEGURIDAD 2024",
-    "Compañia final": "PHILIPS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLAN ANUAL DENTAL CONVENIO BUK",
-    "Compañia final": "PORTAL BUK",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLAN COMEXPROCON PLAN SEGURO AMPLIO 80 2024",
-    "Compañia final": "QUALAMEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLAN QUALAMEX PLAN SEGURIDAD 80 2024",
-    "Compañia final": "QUALAMEX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLANUS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PLANUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLAYER GROUP EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PLAYER GROUP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLAYER GROUP EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "PLAYER GROUP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLAYER GROUP EMPLEADOS SEGURIDAD 2024 ",
-    "Compañia final": "PLAYER GROUP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PLUXEE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SODEXO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "POLAK EMPLEADOS AFILIACION 2024",
-    "Compañia final": "POLAK",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PORTAL NTT DATA EMPLEADOS UPGRADE AFILIACION 2024",
-    "Compañia final": "PORTAL NTT DATA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PORTAL NTT DATA EMPLEADOS UPGRADE SEGURIDAD 2024",
-    "Compañia final": "PORTAL NTT DATA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PPG EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "PPG",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PPG EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PPG",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PRINCIPAL AFORE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PRINCIPAL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PRINCIPAL AFORE EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "PRINCIPAL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PRINT EMPLEADOS ELEMENTAL 2023",
-    "Compañia final": "PRINT EMPLEADOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCESAR EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "PROCESAR",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCESAR EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "PROCESAR",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS AUTORREALIZACION ",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS AUTORREALIZACION  2024",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS AUTORREALIZACION  2025",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS VISION AMPLIO 2024",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS VISION AMPLIO 2025",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS VISION AUTORREALIZACION",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS VISION AUTORREALIZACION 2024",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROCTER AND GAMBLE PORTAL EMPLEADOS VISION AUTORREALIZACION 2025",
-    "Compañia final": "PORTAL P&G",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROMAX EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PROMAX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROSA EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "PROSA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROSA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PROSA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROSA EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "PROSA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROSA EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "PROSA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROTEXA EMPLEADOS AMPLIO 2025-2026",
-    "Compañia final": "PROTEXA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROTEXA EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "PROTEXA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PROVEEDORA DE INTELIGENCIA GENESIS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PROVEEDORA DE INTELIGENCIA GENESIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PULSIAM EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PULSIAM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PUMA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "PUMA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PURATOS EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "PURATOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "PURATOS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PURATOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "QUALCOMM EMPLEADOS AFILIACION 2023",
-    "Compañia final": "QUALCOMM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "QUALCOMM EMPLEADOS AFILIACION 2024",
-    "Compañia final": "QUALCOMM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "QUINTILES EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "QUINTILES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "QUINTILES EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "QUINTILES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RACKSPACE EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "RACKSPACE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RAPISCAN EMPLEADOS AFILIACION 2023",
-    "Compañia final": "RAPISCAN SYSTEMS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RAPISCAN EMPLEADOS AFILIACION 2024",
-    "Compañia final": "RAPISCAN SYSTEMS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RAUDA CONSULTORES EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "RAUDA CONSULTORES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER AFILIACION 2023",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER AFILIACION 2024",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER AMPLIO 2023",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER AMPLIO 2024",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER LIMPIEZA 2023",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER LIMPIEZA 2024",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER SEGURIDAD 2023",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RED VOUCHER SEGURIDAD 2024",
-    "Compañia final": "RED VOUCHER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "REINA MADRE EMPLEADOS PREVENTIVO 2023",
-    "Compañia final": "REINA MADRE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "REINA MADRE EMPLEADOS PREVENTIVO 2024",
-    "Compañia final": "REINA MADRE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "REVISIONES EN SITIO COMERCIAL",
-    "Compañia final": "REVISIONES EN SITIO COMERCIAL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "REVISIONES EN SITIO COMERCIAL BBVA 2024",
-    "Compañia final": "PORTAL BBVA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RHEEM DE MEXICO EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "RHEEM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RIOT GAMES EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "RIOT GAMES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RISOUL Y CIA EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "RISOUL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "RISOUL Y CIA EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "RISOUL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ROCA DESARROLLOS PORTAL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "ROCA DESARROLLOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ROCHE EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "ROCHE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ROCHE EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "ROCHE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ROCHE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "ROCHE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ROYAL SEGUROS SURA EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "SEGUROS SURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ROYAL SEGUROS SURA EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "SEGUROS SURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SABIC EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SABIC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SABIC EMPLEADOS SEGURIDAD 2025",
-    "Compañia final": "SABIC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SALLES, SAINZ-GRANT THORNTON EMPLEADOS SEGURIDAD 2024-2025",
-    "Compañia final": "SALLES, SAINZ-GRANT THORNTON",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SANDEN EMPLEADOS AFILIACION 2022",
-    "Compañia final": "SANDEN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SANDEN EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SANDEN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SANDOZ EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SANDOZ",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SANOFI EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SANOFI",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SANTANDER PORTAL EMPLEADOS AFILIACIÓN 2024",
-    "Compañia final": "PORTAL SANTANDER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SANTANDER PORTAL EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "SANTANDER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SANTANDER PORTAL EMPLEADOS PREVENTIVO 2024",
-    "Compañia final": "SANTANDER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SAS INSTITUTE EMPLEADOS AFILIACION 2022",
-    "Compañia final": "SAS-INSTITUTE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SAS INSTITUTE EMPLEADOS AFILIACION 2023",
-    "Compañia final": "SAS-INSTITUTE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SAS INSTITUTE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SAS-INSTITUTE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SCALABLE PRESS EMPLEADOS AMPLIO 2024",
-    "Compañia final": "SCALABLE PRESS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SEKURA AER PORTAL SEGURIDAD",
-    "Compañia final": "SEKURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SEKURA BLU-ASSISTENCI",
-    "Compañia final": "SEKURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SEKURA EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "SEKURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SEKURA FAMILY & FRIENDS PORTAL EMPLEADOS AUTOREALIZACION 2024",
-    "Compañia final": "PORTAL SEKURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SEKURA PORTAL UP GRADE AUTORREALIZACIÓN 2024",
-    "Compañia final": "PORTAL SEKURA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SERADRI EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SERADRI",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SERADRI EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "SERADRI",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SGS DE MEXICO PORTAL EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SGS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SGS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SGS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SGS EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "SGS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SHURE MEXICO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "SHURE MEXICO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS EMPLEADOS AFILIACION 2023",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS ENERGY EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS F&F PORTAL EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "PORTAL SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS F&F PORTAL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "PORTAL SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS HEALTHCARE DIAGNOSTICS EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS INMOBILIARIA EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS MOBILITY EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS PORTAL EMPLEADOS UPGRADE AUTORREALIZACION 2022",
-    "Compañia final": "PORTAL SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS PORTAL EMPLEADOS UPGRADE AUTORREALIZACION 2024",
-    "Compañia final": "PORTAL SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS PORTAL FAMILY AND FRIENDS AUTORREALIZACION 2023",
-    "Compañia final": "PORTAL SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS PORTAL FAMILY AND FRIENDS SEGURIDAD 2023",
-    "Compañia final": "PORTAL SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIEMENS SERVICIOS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SIEMENS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIKA MEXICANA EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "SIKA MEXICANA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIKA MEXICANA EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "SIKA MEXICANA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SIKA MEXICANA EMPLEADOS ELEMENTAL 2025-2026",
-    "Compañia final": "SIKA MEXICANA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SILVER TORCH EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "SILVER TORCH",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SMURFIT EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "SMURFIT",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SMURFIT EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SMURFIT",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SOAINT MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SOAINT MEXICO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SOCIOS DENTALIA",
-    "Compañia final": "SOCIOS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SOFIA SEGUROS 2024",
-    "Compañia final": "SOFIA SEGUROS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SOLUCIONES HEXAGONO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SOLUCIONES HEXAGONO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SOPORTE EN PARALELO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "SOPORTE EN PARALELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SOPORTE EN PARALELO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "SOPORTE EN PARALELO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "STRYKER MEXICO EMPLEADOS RECONOCIMIENTO 2023",
-    "Compañia final": "STRYKER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "STRYKER MEXICO EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "STRYKER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SUNGWOO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SUNGWOO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SWISS EMPLEADOS AFILIACION",
-    "Compañia final": "SWISS RE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SWISS EMPLEADOS AFILIACION 2022",
-    "Compañia final": "SWISS RE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SWISS RE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "SWISS RE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SWISS RE EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "SWISS RE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "SWISS RE MEXICO EMPLEADOS AFILIACION 2023",
-    "Compañia final": "SWISS RE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TBC DE MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "TBC",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEADS MEXICO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "TEADS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN FAMILIAR 2023",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN FAMILIAR 2024",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN FAMILIAR 2025",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN FAMILIAR VISION 2023",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN INDIVIDUAL 2022",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN INDIVIDUAL 2023",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN INDIVIDUAL 2024",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN INDIVIDUAL 2025",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TEC PLAN INDIVIDUAL VISION 2023",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TECH DATA EMPLEADOS AFILIACION 2021",
-    "Compañia final": "TECH DATA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TECH VENTURES PLAN INDIVIDUAL 2024",
-    "Compañia final": "TECH VENTURES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TECMILENIO PLAN FAMILIAR 2024",
-    "Compañia final": "TECMILENIO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TECMILENIO PLAN FAMILIAR 2025",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TECMILENIO PLAN INDIVIDUAL 2024",
-    "Compañia final": "TECMILENIO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TECMILENIO PLAN INDIVIDUAL 2025",
-    "Compañia final": "ITESM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TELEFONICA PEGASO EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "TELEFONICA PEGASO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TELEFONICA PEGASO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "TELEFONICA PEGASO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TERUMO EMPLEADOS RECONOCIMIENTO 2023",
-    "Compañia final": "TERUMO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TERUMO EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "TERUMO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TESA TAPE EMPLEADOS AFILIACION 2024",
-    "Compañia final": "TESA TAPE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TESA TAPE EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "TESA TAPE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "THE ANGLO EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "THE ANGLO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "THYSSENKRUPP EMPLEADOS ELEMENTAL 2023",
-    "Compañia final": "THYSSENKRUPP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "THYSSENKRUPP EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "THYSSENKRUPP",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TIFFANY EMPLEADOS AFILIACION 2024",
-    "Compañia final": "TIFFANY & CO MEXICO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TORRE MAYOR Y REICHMANN EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "TORRE MAYOR Y REICHMANN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TURISMO MEDICO FRONTERA",
-    "Compañia final": "TURISMO MEDICO FRONTERA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TUTO ENERGY EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "TUTO ENERGY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "TUTO ENERGY EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "TUTO ENERGY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "URS CORPORATION EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "URS CORPORATION",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VALVOLINE INTERNATIONAL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "VALVOLINE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VECTOR CASA DE BOLSA AFILIACION 2023",
-    "Compañia final": "VECTOR",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VECTOR CASA DE BOLSA AFILIACION 2024",
-    "Compañia final": "VECTOR",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VEEDA BIENESTAR EMPLEADOS DICIEMBRE LIMPIEZA 2024",
-    "Compañia final": "VEEDA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VEEDA BIENESTAR EMPLEADOS ENERO LIMPIEZA 2025",
-    "Compañia final": "VEEDA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VEEDA BIENESTAR EMPLEADOS FEBRERO LIMPIEZA 2025",
-    "Compañia final": "VEEDA",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VENTAGIUM EMPLEADOS SEGURIDAD 2025-2026",
-    "Compañia final": "VENTAGIUM",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VICTOR EQUIPMENT EMPLEADOS AFILIACION 2024",
-    "Compañia final": "VICTOR EQUIPMENT",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VISKASE EMPLEADOS ELEMENTAL 2024",
-    "Compañia final": "VISKASE DEL NORTE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VITOL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "VITOL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VIVAAEROBUS PORTAL EMPLEADOS AUTORREALIZACION VISION 2023",
-    "Compañia final": "PORTAL VIVA AEROBUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VIVAAEROBUS PORTAL EMPLEADOS AUTORREALIZACION VISION 2024",
-    "Compañia final": "PORTAL VIVA AEROBUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VIVAAEROBUS PORTAL EMPLEADOS SEGURIDAD 2022",
-    "Compañia final": "PORTAL VIVA AEROBUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VIVAAEROBUS PORTAL EMPLEADOS SEGURIDAD VISION 2023",
-    "Compañia final": "PORTAL VIVA AEROBUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VIVAAEROBUS PORTAL EMPLEADOS SEGURIDAD VISION 2024",
-    "Compañia final": "PORTAL VIVA AEROBUS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOLARIS EMPLEADOS AFILIACION 2024",
-    "Compañia final": "VOLARIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOLARIS EMPLEADOS AMPLIO 2024",
-    "Compañia final": "VOLARIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOLARIS EMPLEADOS AUTORREALIZACION 2021",
-    "Compañia final": "VOLARIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOLARIS EMPLEADOS AUTORREALIZACION 2022",
-    "Compañia final": "VOLARIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOLARIS EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "VOLARIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOLARIS EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "VOLARIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOORDEEL EMPLEADOS SEGURIDAD 2023",
-    "Compañia final": "VOORDEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "VOORDEEL EMPLEADOS SEGURIDAD 2024",
-    "Compañia final": "VOORDEL",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WASSERMAN MEXICO EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "WASSERMAN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WEBBER ASESORES PORTAL AFILIACION 2023",
-    "Compañia final": "WEBBER ASESORES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WEBBER EMPLEADOS AFILIACION 2024",
-    "Compañia final": "WEBBER ASESORES",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WEBBER PORTAL EMPLEADOS AFILIACION 2025",
-    "Compañia final": "PORTAL WEBBER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WERNER EMPLEADOS RECONOCIMIENTO 2023",
-    "Compañia final": "WERNER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WERNER EMPLEADOS RECONOCIMIENTO 2024",
-    "Compañia final": "WERNER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WERNER EMPLEADOS RECONOCIMIENTO 2025-2026",
-    "Compañia final": "WERNER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WEWORK EMPLEADOS AFILIACION 2024",
-    "Compañia final": "WEWORK",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WILLIAMS SCOTSMAN EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "WS SERVICIOS DE MEXICO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WILLIAMS SCOTSMAN EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "WS SERVICIOS DE MEXICO",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WILLIAMS SCOTSMAN EMPLEADOS AUTORREALIZACION 2025-2026",
-    "Compañia final": "WILLIAMS SCOTSMAN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WILLIS TOWERS PORTAL CLIENTES AFILIACIÓN 2023",
-    "Compañia final": "PORTAL WILLIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WILLIS TOWERS PORTAL CLIENTES AMPLIO 2023",
-    "Compañia final": "PORTAL WILLIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WILLIS TOWERS PORTAL CLIENTES AUTORREALIZACIÓN",
-    "Compañia final": "PORTAL WILLIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WILLIS TOWERS PORTAL CLIENTES AUTORREALIZACIÓN 2023",
-    "Compañia final": "PORTAL WILLIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WITZENMANN EMPLEADOS AFILIACION 2024",
-    "Compañia final": "WITZENMANN",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WORLEY EMPLEADOS AMPLIO 2025-2026",
-    "Compañia final": "WORLEY",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WTW PORTAL EMPLEADOS AFILIACIÓN 2024",
-    "Compañia final": "PORTAL WILLIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WTW PORTAL EMPLEADOS AMPLIO 2024",
-    "Compañia final": "PORTAL WILLIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "WTW PORTAL EMPLEADOS AUTORREALIZACIÓN 2024",
-    "Compañia final": "PORTAL WILLIS",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "XIGNUX EMPLEADOS AFILIACION 2025-2026",
-    "Compañia final": "XIGNUX",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ZENDERE EMPLEADOS AUTORREALIZACION 2023",
-    "Compañia final": "ZENDERE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ZENDERE EMPLEADOS AUTORREALIZACION 2024",
-    "Compañia final": "ZENDERE",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "ZSCALER MEXICO EMPLEADOS AFILIACION 2024",
-    "Compañia final": "ZSCALER",
-    "Canal": "B&E"
-  },
-  {
-    "PLAN_CONVENIO": "MEMBRESIA FAMILIAR 3 PERSONAS",
-    "Compañia final": "MEMBRESIA FAMILIAR DENTALIA",
-    "Canal": "MEMBRESIA DENTALIA"
-  },
-  {
-    "PLAN_CONVENIO": "MEMBRESIA FAMILIAR 4 PERSONAS",
-    "Compañia final": "MEMBRESIA FAMILIAR DENTALIA",
-    "Canal": "MEMBRESIA DENTALIA"
-  },
-  {
-    "PLAN_CONVENIO": "MEMBRESIA FAMILIAR 5 PERSONAS",
-    "Compañia final": "MEBRESIA DENTALIA",
-    "Canal": "MEMBRESIA DENTALIA"
-  },
-  {
-    "PLAN_CONVENIO": "MEMBRESIA INDIVIDUAL",
-    "Compañia final": "MEMRESIA INDIVIDUAL DENTALIA",
-    "Canal": "MEMBRESIA DENTALIA"
+    "name": "MEMRESIA INDIVIDUAL DENTALIA"
   }
 ]

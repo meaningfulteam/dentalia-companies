@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Minimal UI</title>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/awesomplete@1.1.5/awesomplete.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="search-container">
+        <label for="autoComplete">Búsqueda</label>
+        <div class="search-input-group">
+          <input
+            id="autoComplete"
+            class="search-input awesomplete"
+            type="text"
+            placeholder="Buscar..."
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="searchButton" class="search-button">Buscar</button>
+        </div>
+      </div>
+
+      <div class="textarea-container">
+        <label for="content">Contenido</label>
+        <textarea id="content" placeholder="Escribe algo..."></textarea>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/awesomplete@1.1.5/awesomplete.min.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

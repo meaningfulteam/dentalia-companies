@@ -1,0 +1,141 @@
+:root {
+    --background: #ffffff;
+    --foreground: #020817;
+    --muted: #f1f5f9;
+    --muted-foreground: #64748b;
+    --border: #e2e8f0;
+    --input: #f8fafc;
+    --ring: #94a3b8;
+    --radius: 0.5rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background-color: var(--background);
+    color: var(--foreground);
+    line-height: 1.5;
+    padding: 2rem;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.search-container {
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.search-input-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.search-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background-color: var(--input);
+    color: var(--foreground);
+    font-size: 0.875rem;
+    transition: all 0.2s;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: var(--ring);
+    box-shadow: 0 0 0 2px rgba(148, 163, 184, 0.1);
+}
+
+.search-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+.textarea-container {
+    margin-bottom: 1rem;
+}
+
+textarea {
+    width: 100%;
+    min-height: 150px;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background-color: var(--input);
+    color: var(--foreground);
+    font-size: 0.875rem;
+    resize: vertical;
+    transition: all 0.2s;
+}
+
+textarea:focus {
+    outline: none;
+    border-color: var(--ring);
+    box-shadow: 0 0 0 2px rgba(148, 163, 184, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--muted-foreground);
+}
+
+/* Estilos para Awesomplete */
+.awesomplete {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.awesomplete > ul {
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0.5rem 0;
+    background-color: var(--background);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    list-style: none;
+}
+
+.awesomplete > ul > li {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.awesomplete > ul > li:hover {
+    background-color: var(--muted);
+}
+
+.awesomplete mark {
+    background-color: transparent !important;
+    padding: 0;
+    border-radius: 0;
+    color: inherit;
+}
+
+.awesomplete li[aria-selected="true"] {
+    background-color: var(--muted);
+} 

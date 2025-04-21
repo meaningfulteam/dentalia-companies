@@ -1,0 +1,99 @@
+<!-- [Start: Ensurance search script]-->
+<script>
+  (() => {
+    // Define important variables
+    const attr = "m8l-search";
+    const dataSrc =
+      "https://cdn.jsdelivr.net/gh/meaningfulteam/dentalia-companies@main/src/data.json";
+    const fuseOptions = {
+      keys: ["name"],
+      shouldSort: true,
+      isCaseSensitive: false,
+      includeScore: true,
+      threshold: 0.3,
+    };
+    let data = [];
+
+    // Helper functions
+    const $ = (s, p = document) => p.querySelector(s);
+    const $$ = (s, p = document) => p.querySelectorAll(s);
+
+    // Define important elements
+    const input = $(`[${attr}="input"]`);
+    const searchButton = $(`[${attr}="search-button"]`);
+    const suggestionWrapper = $(`[${attr}="suggestion-wrapper"]`);
+    const optionsWrapper = $(`[${attr}="options-wrapper"]`);
+    const optionTemplate = $(`[${attr}="option-template"]`);
+    const defaultOption = $(`[${attr}="default-option"]`);
+    const defaultWrapper = $(`[${attr}="default-wrapper"]`);
+
+    // Define main functions
+    const getData = async () => {
+      try {
+        const res = await fetch(dataSrc);
+        if (!res.ok) throw new Error(`Error HTTP: ${res.status}`);
+        data = await res.json();
+        return data;
+      } catch (e) {
+        console.error(e.message);
+        return [];
+      }
+    };
+    const setSearchState = (error = false) => {
+      if (error) {
+        input.disabled = true;
+        searchButton.disabled = true;
+        input.placeholder = "Error al cargar los datos";
+      } else {
+        input.removeAttribute("disabled");
+        searchButton.removeAttribute("disabled");
+        input.placeholder = input.placeholder;
+      }
+    };
+    const clearOptions = () => (optionsWrapper.innerHTML = "");
+    const createOption = (val) => {
+      const option = optionTemplate.content.cloneNode(true);
+      option.innerText = val;
+      option.classList.remove("hide");
+      optionsWrapper.appendChild(option);
+    };
+    const setDefault = (q) => {
+      defaultOption.innerText = q;
+      if (q != "") defaultWrapper.classList.remove("hide");
+      else defaultWrapper.classList.add("hide");
+    };
+    const getSuggestionsByQuery = (q) => {
+      const fuse = new Fuse(data, fuseOptions);
+      return fuse.search(q);
+    };
+    const setSuggestions = (q) => {
+      clearOptions();
+      if (q === "") {
+        return suggestionWrapper.classList.add("hide");
+      }
+      const suggestions = getSuggestionsByQuery(q);
+      if (!suggestions.length) {
+        optionsWrapper.classList.add("hide");
+        suggestionWrapper.classList.remove("hide");
+        setDefault(q);
+        return;
+      }
+      
+    };
+    const init = async () => {
+      data = await getData();
+      if (!data.length) return setSearchState(true);
+      setSearchState(false);
+    };
+
+    // Initialize search script
+    init();
+
+    // Define event listeners
+    input.addEventListener("input", (e) => {
+      setDefault(e.target.value);
+      setSuggestions(e.target.value);
+    });
+  })();
+</script>
+<!-- [End: Ensurance search script]-->

@@ -5,15 +5,22 @@ const csv = require("csv-parse/sync");
 const csvFilePath = "./src/data.csv";
 const jsonFilePath = "./src/data.json";
 
-console.log("Hola mundo");
 try {
   // Leer el contenido del archivo CSV
   const fileContent = fs.readFileSync(csvFilePath, "utf-8");
 
   // Parsear el CSV a un array de objetos
-  const records = csv.parse(fileContent, {
+  const rawData = csv.parse(fileContent, {
     columns: true, // Usa la primera fila como nombres de columnas
     skip_empty_lines: true,
+  });
+
+  const unique = [...new Set(rawData.map((item) => item["Compañia final"]))];
+
+  const records = unique.map((item) => {
+    return {
+      name: item,
+    };
   });
 
   // Asegurarse de que el directorio src existe
