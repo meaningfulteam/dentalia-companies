@@ -10,7 +10,6 @@
       shouldSort: true,
       isCaseSensitive: false,
       includeScore: true,
-      threshold: 0.3,
     };
     let data = [];
 
@@ -26,6 +25,9 @@
     const optionTemplate = $(`[${attr}="option-template"]`);
     const defaultOption = $(`[${attr}="default-option"]`);
     const defaultWrapper = $(`[${attr}="default-wrapper"]`);
+    const ansWrapper = $(`[${attr}="ans-wrapper"]`);
+    const goodAns = $(`[${attr}="good-ans"]`);
+    const badAns = $(`[${attr}="bad-ans"]`);
 
     // Define main functions
     const getData = async () => {
@@ -51,19 +53,26 @@
       }
     };
     const clearOptions = () => (optionsWrapper.innerHTML = "");
+    const selectOption = (val) => {
+      input.value = val;
+      setSuggestions(val);
+      defaultOption.innerText = val;
+    };
+
     const createOption = (val) => {
-      const option = optionTemplate.content.cloneNode(true);
+      const option = optionTemplate.cloneNode(true);
       option.innerText = val;
+      option.addEventListener("click", () => selectOption(val));
       option.classList.remove("hide");
       optionsWrapper.appendChild(option);
     };
     const setDefault = (q) => {
-      defaultOption.innerText = q;
+      defaultOption.innerText = `"${q}"`;
       if (q != "") defaultWrapper.classList.remove("hide");
       else defaultWrapper.classList.add("hide");
     };
-    const getSuggestionsByQuery = (q) => {
-      const fuse = new Fuse(data, fuseOptions);
+    const getSuggestionsByQuery = (q, threshold = 0.3) => {
+      const fuse = new Fuse(data, { ...fuseOptions, threshold });
       return fuse.search(q);
     };
     const setSuggestions = (q) => {
@@ -75,15 +84,35 @@
       if (!suggestions.length) {
         optionsWrapper.classList.add("hide");
         suggestionWrapper.classList.remove("hide");
-        setDefault(q);
         return;
       }
-      
+      suggestions.splice(0, 5).forEach((s) => {
+        createOption(s.item.name);
+      });
+      optionsWrapper.classList.remove("hide");
+      suggestionWrapper.classList.remove("hide");
+      ansWrapper.classList.add("hide");
     };
     const init = async () => {
       data = await getData();
       if (!data.length) return setSearchState(true);
       setSearchState(false);
+    };
+    const handleSearch = (q) => {
+      if (!q) return ansWrapper.classList.add("hide");
+      const option = data.some(
+        (i) => i.name.toLowerCase().trim() === q.toLowerCase().trim()
+      );
+      suggestionWrapper.classList.add("hide");
+      if (!option) {
+        ansWrapper.classList.remove("hide");
+        badAns.classList.remove("hide");
+        goodAns.classList.add("hide");
+      } else {
+        ansWrapper.classList.remove("hide");
+        goodAns.classList.remove("hide");
+        badAns.classList.add("hide");
+      }
     };
 
     // Initialize search script
@@ -93,6 +122,21 @@
     input.addEventListener("input", (e) => {
       setDefault(e.target.value);
       setSuggestions(e.target.value);
+    });
+    input.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        const q = input.value;
+        handleSearch(q);
+      }
+    });
+    searchButton.addEventListener("click", () => {
+      const q = input.value;
+      handleSearch(q);
+    });
+    defaultOption.addEventListener("click", () => {
+      const q = defaultOption.innerText.replaceAll('"', "");
+      input.value = q;
+      handleSearch(q);
     });
   })();
 </script>
