@@ -1,915 +1,1158 @@
 [
   {
-    "name": "PLANES BANCARIOS"
+    "name": "3M"
   },
   {
-    "name": "TQS"
+    "name": "3M EMPLEADOS AON"
   },
   {
-    "name": "INTEGRA SALUD"
+    "name": "ABB GENERAL ELECTRIC"
   },
   {
-    "name": "MAS SERVICIOS"
+    "name": "ADASOL"
   },
   {
-    "name": "IKE AMAZON"
-  },
-  {
-    "name": "VIVA WELL"
-  },
-  {
-    "name": "MEDDI"
-  },
-  {
-    "name": "INTEGRALIS"
-  },
-  {
-    "name": "MI DOC ONLINE"
-  },
-  {
-    "name": "DSP GRUPO MOK"
-  },
-  {
-    "name": "ASSIST"
-  },
-  {
-    "name": "IGS"
-  },
-  {
-    "name": "INFOASIST"
-  },
-  {
-    "name": "STARLIGHT"
-  },
-  {
-    "name": "SOS"
-  },
-  {
-    "name": "ARSA"
-  },
-  {
-    "name": "ASTRAZENECA"
-  },
-  {
-    "name": "PORTAL BBVA"
-  },
-  {
-    "name": "INVEX"
-  },
-  {
-    "name": "SABIC"
-  },
-  {
-    "name": "ICONN"
-  },
-  {
-    "name": "ITESM"
-  },
-  {
-    "name": "HERSHEYS"
-  },
-  {
-    "name": "SIKA MEXICANA"
-  },
-  {
-    "name": "VECTOR"
-  },
-  {
-    "name": "FORD"
-  },
-  {
-    "name": "HSBC"
-  },
-  {
-    "name": "GRUPO SALINAS"
-  },
-  {
-    "name": "GRUPO BOCAR"
-  },
-  {
-    "name": "AMAZON SEG A"
-  },
-  {
-    "name": "MERCEDES BENZ"
-  },
-  {
-    "name": "COMMSCOPE"
-  },
-  {
-    "name": "CLUB CAMPESTRE"
-  },
-  {
-    "name": "TIFFANY & CO MEXICO"
-  },
-  {
-    "name": "EQUIPO M165"
-  },
-  {
-    "name": "MANPOWER"
-  },
-  {
-    "name": "KRISPY KREME"
-  },
-  {
-    "name": "NARMX"
-  },
-  {
-    "name": "AT&T"
-  },
-  {
-    "name": "GRUPO MODELO"
-  },
-  {
-    "name": "VOLARIS"
-  },
-  {
-    "name": "CARESTREAM"
-  },
-  {
-    "name": "HYUNDAI MOBIS"
-  },
-  {
-    "name": "CISCO"
-  },
-  {
-    "name": "KPMG"
-  },
-  {
-    "name": "AMAZON SEG B"
-  },
-  {
-    "name": "DELOITTE"
-  },
-  {
-    "name": "SUNGWOO"
-  },
-  {
-    "name": "AFORE SURA"
-  },
-  {
-    "name": "MEGACABLE"
-  },
-  {
-    "name": "PROVEEDORA DE INTELIGENCIA GENESIS"
-  },
-  {
-    "name": "MERITOR"
-  },
-  {
-    "name": "CATERPILLAR"
-  },
-  {
-    "name": "DAIKIN"
-  },
-  {
-    "name": "GENERAL ELECTRIC"
-  },
-  {
-    "name": "DAIMLER MANUFACTURAS"
-  },
-  {
-    "name": "ALPLA TRADING"
-  },
-  {
-    "name": "JABNIA"
-  },
-  {
-    "name": "FLEX N GATES"
-  },
-  {
-    "name": "SANOFI"
-  },
-  {
-    "name": "PORTAL ICA"
-  },
-  {
-    "name": "AT&T COLABORADORES"
-  },
-  {
-    "name": "PORTAL P&G"
-  },
-  {
-    "name": "SIEMENS"
-  },
-  {
-    "name": "THYSSENKRUPP"
-  },
-  {
-    "name": "JOHN DEERE"
-  },
-  {
-    "name": "MANOHAY"
-  },
-  {
-    "name": "ORACLE"
-  },
-  {
-    "name": "SOAINT MEXICO"
-  },
-  {
-    "name": "COLGATE"
-  },
-  {
-    "name": "AXITY"
-  },
-  {
-    "name": "PORTAL SIEMENS"
-  },
-  {
-    "name": "SMURFIT"
-  },
-  {
-    "name": "AMEX"
-  },
-  {
-    "name": "DISNEY"
-  },
-  {
-    "name": "INDITEX"
-  },
-  {
-    "name": "HENKEL"
-  },
-  {
-    "name": "VEEDA"
-  },
-  {
-    "name": "DENTALIA"
-  },
-  {
-    "name": "SODEXO"
-  },
-  {
-    "name": "HOLIDAY INN"
-  },
-  {
-    "name": "PAQUETEXPRESS"
-  },
-  {
-    "name": "PURATOS"
-  },
-  {
-    "name": "REINA MADRE"
-  },
-  {
-    "name": "ARTHREX"
-  },
-  {
-    "name": "PORTAL AON MBS"
-  },
-  {
-    "name": "SGS"
-  },
-  {
-    "name": "QUINTILES"
-  },
-  {
-    "name": "JUGOS DEL VALLE"
-  },
-  {
-    "name": "SAS-INSTITUTE"
-  },
-  {
-    "name": "ECOLAB"
-  },
-  {
-    "name": "MASTERCARD"
-  },
-  {
-    "name": "RAUDA CONSULTORES"
-  },
-  {
-    "name": "PORTAL DELL"
-  },
-  {
-    "name": "THE ANGLO"
-  },
-  {
-    "name": "MC DONALDS"
-  },
-  {
-    "name": "GRUPO PHOENIX"
-  },
-  {
-    "name": "MERCER MARSH"
-  },
-  {
-    "name": "ESSITY"
-  },
-  {
-    "name": "RED VOUCHER"
-  },
-  {
-    "name": "AXALTA"
-  },
-  {
-    "name": "DLL LEASING"
-  },
-  {
-    "name": "PORTAL AMEX"
-  },
-  {
-    "name": "TECMILENIO"
-  },
-  {
-    "name": "PPG"
-  },
-  {
-    "name": "NEMA MOTORS"
-  },
-  {
-    "name": "KIDZANIA"
-  },
-  {
-    "name": "LOCKTON EMPLEADOS"
-  },
-  {
-    "name": "PHILIPS"
-  },
-  {
-    "name": "NOVARTIS"
-  },
-  {
-    "name": "AVON"
-  },
-  {
-    "name": "BACHOCO"
-  },
-  {
-    "name": "VS DEVELOPMENT"
-  },
-  {
-    "name": "OPERASON / LOCKTON HMO"
-  },
-  {
-    "name": "MAXIMA DISTINCION"
-  },
-  {
-    "name": "ASPEN"
-  },
-  {
-    "name": "PORTAL FERROMEX"
-  },
-  {
-    "name": "GRUPO SANTILLANA"
-  },
-  {
-    "name": "BRITISH AMERICAN TOBACCO"
-  },
-  {
-    "name": "EPICOR SOFTWARE"
-  },
-  {
-    "name": "PROMAX"
-  },
-  {
-    "name": "BIMBO"
-  },
-  {
-    "name": "NXP"
-  },
-  {
-    "name": "PORTAL GRUPO DESC"
-  },
-  {
-    "name": "TERUMO"
-  },
-  {
-    "name": "MANCERA"
-  },
-  {
-    "name": "FERRERO"
-  },
-  {
-    "name": "GRUPO AXO"
-  },
-  {
-    "name": "MARRIOTT"
-  },
-  {
-    "name": "PORTAL INFOSYS"
-  },
-  {
-    "name": "DEACERO"
+    "name": "ADDIUVA"
   },
   {
     "name": "ADIENT MEXICO"
   },
   {
-    "name": "3M"
+    "name": "ADMINISTRACIÓN ESTRATEGICA"
   },
   {
-    "name": "SWISS RE"
+    "name": "ADMINISTRADORA DE CENTROS COMERCIALES"
   },
   {
-    "name": "DIEBOLD"
-  },
-  {
-    "name": "CAPRIO"
-  },
-  {
-    "name": "PORTAL WILLIS"
-  },
-  {
-    "name": "PORTAL 3M"
-  },
-  {
-    "name": "JAFRA"
-  },
-  {
-    "name": "INVEX-AMMPER"
-  },
-  {
-    "name": "SEGUROS SURA"
-  },
-  {
-    "name": "MSD EMPLEADOS"
-  },
-  {
-    "name": "DIAVAZ"
-  },
-  {
-    "name": "BSI"
-  },
-  {
-    "name": "PORTAL VIVA AEROBUS"
-  },
-  {
-    "name": "LOTTUS"
-  },
-  {
-    "name": "BLOOMBERG"
-  },
-  {
-    "name": "TBC"
-  },
-  {
-    "name": "PUMA"
-  },
-  {
-    "name": "PENGUIEN RANDOM"
-  },
-  {
-    "name": "TEADS"
-  },
-  {
-    "name": "WEBBER ASESORES"
-  },
-  {
-    "name": "PORTAL INDITEX"
-  },
-  {
-    "name": "COMPASS GROUP"
-  },
-  {
-    "name": "AXIS LAC"
-  },
-  {
-    "name": "RACKSPACE"
-  },
-  {
-    "name": "GRAINGER"
-  },
-  {
-    "name": "MTP"
-  },
-  {
-    "name": "COPARMEX"
-  },
-  {
-    "name": "ARCELOR MITTAL"
-  },
-  {
-    "name": "PERNOD"
-  },
-  {
-    "name": "PLANUS"
-  },
-  {
-    "name": "OLIVARES"
-  },
-  {
-    "name": "ESENTIA"
-  },
-  {
-    "name": "KRONES"
-  },
-  {
-    "name": "AWP"
-  },
-  {
-    "name": "GR ASESORES"
-  },
-  {
-    "name": "GRUPO MOK"
-  },
-  {
-    "name": "ORGANON"
-  },
-  {
-    "name": "LALA"
-  },
-  {
-    "name": "PROTEXA"
-  },
-  {
-    "name": "BOEHRINGER"
-  },
-  {
-    "name": "RISOUL"
-  },
-  {
-    "name": "VOORDEL"
-  },
-  {
-    "name": "PORTAL AON FLEX"
-  },
-  {
-    "name": "FIT STUDIO"
-  },
-  {
-    "name": "SERVICIOS CUPRUM"
-  },
-  {
-    "name": "NTT DATA"
-  },
-  {
-    "name": "JOHN CRANE"
-  },
-  {
-    "name": "EIKOS"
-  },
-  {
-    "name": "BIOCODEX"
-  },
-  {
-    "name": "CJ LOGISTICS"
-  },
-  {
-    "name": "PORTAL GENERAL ELECTRIC"
-  },
-  {
-    "name": "IENOVA"
-  },
-  {
-    "name": "IQSEC"
-  },
-  {
-    "name": "VALVOLINE"
-  },
-  {
-    "name": "BRIDGESTONE DE MONTERREY"
-  },
-  {
-    "name": "HARSO TECNOLOGIES"
-  },
-  {
-    "name": "AUTOLABS"
-  },
-  {
-    "name": "PORTAL WEBBER"
-  },
-  {
-    "name": "DONGWON"
-  },
-  {
-    "name": "JATCO"
-  },
-  {
-    "name": "PORTAL AFIRME"
-  },
-  {
-    "name": "ALD AUTOMOTIVE"
-  },
-  {
-    "name": "IMMUNOTEC"
-  },
-  {
-    "name": "BROVE"
-  },
-  {
-    "name": "SANDEN"
-  },
-  {
-    "name": "GRUPO COMERCIAL CONTROL"
-  },
-  {
-    "name": "VICTOR EQUIPMENT"
-  },
-  {
-    "name": "RHEEM"
-  },
-  {
-    "name": "SEKURA"
-  },
-  {
-    "name": "GAC"
-  },
-  {
-    "name": "WITZENMANN"
-  },
-  {
-    "name": "WEWORK"
-  },
-  {
-    "name": "VISKASE DEL NORTE"
-  },
-  {
-    "name": "CAPULLO"
-  },
-  {
-    "name": "PORTAL SEKURA"
-  },
-  {
-    "name": "EPIROC"
-  },
-  {
-    "name": "INNOVACION EN AISLAMIENTO"
-  },
-  {
-    "name": "COMPUTACENTER"
-  },
-  {
-    "name": "INETUM"
-  },
-  {
-    "name": "CRISTAL JOYAS"
-  },
-  {
-    "name": "INTERESSE EMPLEADOS"
-  },
-  {
-    "name": "PORTAL SANTANDER"
-  },
-  {
-    "name": "LA EUROPEA"
-  },
-  {
-    "name": "CENTRO INTER"
-  },
-  {
-    "name": "BANK OF TOKYO"
-  },
-  {
-    "name": "PROSA"
-  },
-  {
-    "name": "MINTH"
-  },
-  {
-    "name": "NEOGEN"
-  },
-  {
-    "name": "PAYCLIP"
-  },
-  {
-    "name": "URS CORPORATION"
-  },
-  {
-    "name": "GLOBAL ASSURANCE EMPLEADOS"
-  },
-  {
-    "name": "PRINCIPAL"
-  },
-  {
-    "name": "SOPORTE EN PARALELO"
-  },
-  {
-    "name": "WERNER"
-  },
-  {
-    "name": "QUALAMEX"
-  },
-  {
-    "name": "BUREAU VERITAS"
-  },
-  {
-    "name": "DART"
-  },
-  {
-    "name": "OTROS ANTERIORES Y ESTRATEGICOS"
-  },
-  {
-    "name": "CONAGRA FOODS"
-  },
-  {
-    "name": "NATURA"
-  },
-  {
-    "name": "TELEFONICA PEGASO"
-  },
-  {
-    "name": "OXXO"
-  },
-  {
-    "name": "TURISMO MEDICO FRONTERA"
-  },
-  {
-    "name": "G500"
-  },
-  {
-    "name": "SANDOZ"
-  },
-  {
-    "name": "MRP"
-  },
-  {
-    "name": "PORTAL BANCA MIFEL"
-  },
-  {
-    "name": "E-BROKING"
-  },
-  {
-    "name": "GRUPO PHILLIP MORRIS"
-  },
-  {
-    "name": "PORTAL INTEGRA RRMX2"
-  },
-  {
-    "name": "PORTAL NATURA"
-  },
-  {
-    "name": "SOCIOS"
-  },
-  {
-    "name": "PLAYER GROUP"
-  },
-  {
-    "name": "DIDICARD"
-  },
-  {
-    "name": "MURGUIA EMPLEADOS"
-  },
-  {
-    "name": "PEÑAFIEL"
-  },
-  {
-    "name": "LOUIS VUITTON"
-  },
-  {
-    "name": "AMWAY"
-  },
-  {
-    "name": "MIMETICA"
-  },
-  {
-    "name": "GIVAUDAN"
-  },
-  {
-    "name": "TUTO ENERGY"
-  },
-  {
-    "name": "ZENDERE"
-  },
-  {
-    "name": "GRUPO BROSE"
-  },
-  {
-    "name": "ROCHE"
-  },
-  {
-    "name": "BAYER"
-  },
-  {
-    "name": "DAIMLER"
-  },
-  {
-    "name": "NOMITEK"
-  },
-  {
-    "name": "BRASKEM IDESA"
-  },
-  {
-    "name": "IGLESIA DE JESUCRISTO"
-  },
-  {
-    "name": "STRYKER"
-  },
-  {
-    "name": "INNOMOTICS MOTORS"
-  },
-  {
-    "name": "MARY KAY"
-  },
-  {
-    "name": "PORTAL NTT DATA"
-  },
-  {
-    "name": "EJECUTIVOS VIP PROSPECTOS"
-  },
-  {
-    "name": "TORRE MAYOR Y REICHMANN"
-  },
-  {
-    "name": "HANDEL"
-  },
-  {
-    "name": "BUFETE DE ASESORIA ADMINISTRATIVA"
+    "name": "ADYEN MEXICO"
   },
   {
     "name": "AEROUNION"
   },
   {
-    "name": "ITALMEX"
+    "name": "AFORE SURA"
   },
   {
-    "name": "PORTAL BUK"
+    "name": "AIT WORLDWIDE LOGISTICS"
   },
   {
-    "name": "DELL"
+    "name": "ALD AUTOMOTIVE"
   },
   {
-    "name": "SALLES, SAINZ-GRANT THORNTON"
+    "name": "ALPLA TRADING"
   },
   {
-    "name": "PROCESAR"
+    "name": "AMASFAC"
   },
   {
-    "name": "JUSTIA"
+    "name": "AMAZON - MOK ESPECIAL"
   },
   {
-    "name": "SHURE MEXICO"
+    "name": "AMAZON SEG A"
   },
   {
-    "name": "CIBERGESTION"
+    "name": "AMAZON SEG B"
   },
   {
-    "name": "GRUPO FORMULA"
+    "name": "AMEX"
   },
   {
-    "name": "PORTAL GRUPO DILTEX"
+    "name": "AMNU"
   },
   {
-    "name": "DOBOS"
+    "name": "AMPHENOL"
   },
   {
-    "name": "PENSKE"
+    "name": "AMWAY"
   },
   {
-    "name": "PORTAL NATURGY"
+    "name": "ANA COMPAÑIA DE SEGUROS"
   },
   {
-    "name": "KATIMI CONSULTORES"
+    "name": "ANDREAS STHIL"
   },
   {
-    "name": "NIPPON SEIKI DE MEXICO"
+    "name": "AON MBS"
   },
   {
-    "name": "HAPAG-LLOYD"
+    "name": "APOYO COVID-19"
   },
   {
-    "name": "HAVAS MEDIA"
+    "name": "ARAUCO"
   },
   {
-    "name": "OPERBUS"
+    "name": "ARCA CONTINENTAL"
   },
   {
-    "name": "INTEGRA RRMX2"
+    "name": "ARCELOR MITTAL"
+  },
+  {
+    "name": "ARCELORMITTAL"
+  },
+  {
+    "name": "ARSA"
+  },
+  {
+    "name": "ARTHREX"
+  },
+  {
+    "name": "ARZENTIA"
+  },
+  {
+    "name": "ASISMED"
   },
   {
     "name": "ASOCIACION MEXICANA DE ESTANDARES"
   },
   {
+    "name": "ASPEN"
+  },
+  {
+    "name": "ASSURISK"
+  },
+  {
+    "name": "ASTRAZENECA"
+  },
+  {
+    "name": "AT&T"
+  },
+  {
+    "name": "AT&T COLABORADORES"
+  },
+  {
+    "name": "ATLAS COPCO"
+  },
+  {
+    "name": "AUNTAPI"
+  },
+  {
+    "name": "AUTOLABS"
+  },
+  {
+    "name": "AVIAT NETWORK"
+  },
+  {
+    "name": "AVON"
+  },
+  {
+    "name": "AWP"
+  },
+  {
+    "name": "AXA"
+  },
+  {
+    "name": "AXALTA"
+  },
+  {
+    "name": "AXIS LAC"
+  },
+  {
+    "name": "AXITY"
+  },
+  {
+    "name": "BACHOCO"
+  },
+  {
+    "name": "BAISHENG"
+  },
+  {
+    "name": "BANCA MIFEL"
+  },
+  {
+    "name": "BANK OF TOKYO"
+  },
+  {
+    "name": "BASHAM"
+  },
+  {
+    "name": "BAYER"
+  },
+  {
+    "name": "BAYER SEMILLAS Y AGROPRODUCTOS MONSANTO"
+  },
+  {
+    "name": "BBVA"
+  },
+  {
+    "name": "BEFRA"
+  },
+  {
+    "name": "BEKAERT TRADE"
+  },
+  {
+    "name": "BH SERVICES"
+  },
+  {
+    "name": "BIMBO"
+  },
+  {
+    "name": "BIMCO"
+  },
+  {
+    "name": "BIOCODEX"
+  },
+  {
+    "name": "BLANQUEAMIENTOS"
+  },
+  {
+    "name": "BLOOMBERG"
+  },
+  {
+    "name": "BOCAR GROUP"
+  },
+  {
+    "name": "BOEHRINGER"
+  },
+  {
+    "name": "BPT GROUP"
+  },
+  {
+    "name": "BRASKEM IDESA"
+  },
+  {
+    "name": "BRIDGESTONE"
+  },
+  {
+    "name": "BRIDGESTONE DE MONTERREY"
+  },
+  {
+    "name": "BRITISH AMERICAN TOBACCO"
+  },
+  {
+    "name": "BROVE"
+  },
+  {
+    "name": "BSI"
+  },
+  {
+    "name": "BUFETE DE ASESORIA ADMINISTRATIVA"
+  },
+  {
+    "name": "BUK"
+  },
+  {
+    "name": "BUPA"
+  },
+  {
+    "name": "BUREAU VERITAS"
+  },
+  {
+    "name": "BURO DE CREDITO"
+  },
+  {
     "name": "BVLGARI"
   },
   {
-    "name": "PORTAL CIBERGESTION"
+    "name": "BYD"
   },
   {
-    "name": "LESAFFRE"
+    "name": "C&A"
   },
   {
-    "name": "TESA TAPE"
+    "name": "CAMARA DE DIPUTADOS"
   },
   {
-    "name": "OML"
+    "name": "CAPGEMINI"
   },
   {
-    "name": "FIDEX"
+    "name": "CAPRIO"
   },
   {
-    "name": "SERADRI"
+    "name": "CAPULLO"
   },
   {
-    "name": "WORLEY"
+    "name": "CARESTREAM"
+  },
+  {
+    "name": "CASPEX"
+  },
+  {
+    "name": "CATERPILLAR"
+  },
+  {
+    "name": "CENTRO INTER"
+  },
+  {
+    "name": "CHEP MEXICO"
+  },
+  {
+    "name": "CIBERGESTION"
+  },
+  {
+    "name": "CINEPOLIS"
+  },
+  {
+    "name": "CIRSE"
+  },
+  {
+    "name": "CISCO"
+  },
+  {
+    "name": "CJ LOGISTICS"
   },
   {
     "name": "CLOROX"
   },
   {
-    "name": "RAPISCAN SYSTEMS"
+    "name": "CLUB CAMPESTRE"
+  },
+  {
+    "name": "CLUB SAN LUIS"
+  },
+  {
+    "name": "COLGATE"
+  },
+  {
+    "name": "COMERCIAL"
+  },
+  {
+    "name": "COMMSCOPE"
+  },
+  {
+    "name": "COMPARAGU"
+  },
+  {
+    "name": "COMPARTAMOS"
+  },
+  {
+    "name": "COMPASS"
+  },
+  {
+    "name": "COMPASS GROUP"
+  },
+  {
+    "name": "COMPUTACENTER"
+  },
+  {
+    "name": "CONAGRA FOODS"
+  },
+  {
+    "name": "CONDE NAST"
+  },
+  {
+    "name": "CONSUBANCO"
+  },
+  {
+    "name": "COPARMEX"
+  },
+  {
+    "name": "CORTESIAS"
+  },
+  {
+    "name": "CORTESIAS LIMPIEZAS"
+  },
+  {
+    "name": "COSTCO"
+  },
+  {
+    "name": "COVESTRO"
+  },
+  {
+    "name": "CREDITO REAL"
+  },
+  {
+    "name": "CRISTAL JOYAS"
+  },
+  {
+    "name": "CUPONERAPP"
+  },
+  {
+    "name": "CWL"
+  },
+  {
+    "name": "DAIKIN"
+  },
+  {
+    "name": "DAIMLER"
+  },
+  {
+    "name": "DAIMLER manufacturas"
+  },
+  {
+    "name": "DAIMLER SOFOM"
+  },
+  {
+    "name": "DART"
+  },
+  {
+    "name": "DAVILA LOPEZ"
+  },
+  {
+    "name": "DEACERO"
+  },
+  {
+    "name": "DELL"
+  },
+  {
+    "name": "DELOITTE"
+  },
+  {
+    "name": "DENTALIA"
+  },
+  {
+    "name": "DESARROLLADORA MIRA"
+  },
+  {
+    "name": "DIAVAZ"
+  },
+  {
+    "name": "DIDICARD"
+  },
+  {
+    "name": "DIEBOLD"
+  },
+  {
+    "name": "DILTEX"
+  },
+  {
+    "name": "DISNEY"
+  },
+  {
+    "name": "DLL LEASING"
+  },
+  {
+    "name": "DOBOS"
+  },
+  {
+    "name": "DONGWON"
+  },
+  {
+    "name": "DUPONT"
+  },
+  {
+    "name": "E-BROKING"
+  },
+  {
+    "name": "ECOLAB"
+  },
+  {
+    "name": "EIKOS"
+  },
+  {
+    "name": "EJECUTIVOS VIP PROSPECTOS"
+  },
+  {
+    "name": "ENDAVA"
+  },
+  {
+    "name": "EPICOR SOFTWARE"
+  },
+  {
+    "name": "EPIROC"
+  },
+  {
+    "name": "EQUIPO M165"
+  },
+  {
+    "name": "ESENTIA"
+  },
+  {
+    "name": "ESSITY"
+  },
+  {
+    "name": "ESTAFETA"
+  },
+  {
+    "name": "EUROPARTNERS"
+  },
+  {
+    "name": "EXCOENG"
+  },
+  {
+    "name": "EXCOTARO"
+  },
+  {
+    "name": "EXSE ASESORES EN SEGUROS"
+  },
+  {
+    "name": "EY GDS"
+  },
+  {
+    "name": "FARMACOS DAROVI"
   },
   {
     "name": "FERRAGAMO"
   },
   {
-    "name": "QUALCOMM"
+    "name": "FERRERO"
   },
   {
-    "name": "WS SERVICIOS DE MEXICO"
+    "name": "FERROMEX"
   },
   {
-    "name": "CAPGEMINI"
+    "name": "FIDEX"
+  },
+  {
+    "name": "FIT STUDIO"
+  },
+  {
+    "name": "FLEX N GATES"
+  },
+  {
+    "name": "FLSMIDTH"
+  },
+  {
+    "name": "FLSMIDTH CEMENT MONTERREY"
+  },
+  {
+    "name": "FORD"
+  },
+  {
+    "name": "FOXCONN"
+  },
+  {
+    "name": "FULLER"
+  },
+  {
+    "name": "G500"
+  },
+  {
+    "name": "GAC"
+  },
+  {
+    "name": "GAM"
+  },
+  {
+    "name": "GCA DE MEXICO"
+  },
+  {
+    "name": "GENERAL DE SALUD"
+  },
+  {
+    "name": "GENERAL ELECTRIC"
+  },
+  {
+    "name": "GENESEAS"
+  },
+  {
+    "name": "GIVAUDAN"
+  },
+  {
+    "name": "GLOBAL"
+  },
+  {
+    "name": "GLOBAL ASSURANCE EMPLEADOS"
+  },
+  {
+    "name": "GNP"
+  },
+  {
+    "name": "GNP ALPURA"
+  },
+  {
+    "name": "GNP GMM"
+  },
+  {
+    "name": "GNP OTROS"
+  },
+  {
+    "name": "GR ASESORES"
+  },
+  {
+    "name": "GRAINGER"
+  },
+  {
+    "name": "GRT"
+  },
+  {
+    "name": "GRUNDFOS  MANUFACTURING"
+  },
+  {
+    "name": "GRUPO AXO"
+  },
+  {
+    "name": "GRUPO BAL"
+  },
+  {
+    "name": "GRUPO BOCAR"
+  },
+  {
+    "name": "GRUPO BROSE"
+  },
+  {
+    "name": "GRUPO COMERCIAL CONTROL"
+  },
+  {
+    "name": "GRUPO DEGASA"
+  },
+  {
+    "name": "GRUPO DESC"
+  },
+  {
+    "name": "GRUPO DIAVAZ"
+  },
+  {
+    "name": "GRUPO FORMULA"
+  },
+  {
+    "name": "GRUPO GRUMBLEW"
+  },
+  {
+    "name": "GRUPO INDRA"
+  },
+  {
+    "name": "GRUPO MODELO"
+  },
+  {
+    "name": "GRUPO MOK"
+  },
+  {
+    "name": "GRUPO PHILLIP MORRIS"
+  },
+  {
+    "name": "GRUPO PHOENIX"
+  },
+  {
+    "name": "GRUPO SALINAS"
+  },
+  {
+    "name": "GRUPO SANTILLANA"
+  },
+  {
+    "name": "GTA TELECOMM"
+  },
+  {
+    "name": "HANDEL"
+  },
+  {
+    "name": "HAPAG-LLOYD"
+  },
+  {
+    "name": "HARSO"
+  },
+  {
+    "name": "HARSO TECNOLOGIES"
+  },
+  {
+    "name": "HAVAS"
+  },
+  {
+    "name": "HAVAS MEDIA"
+  },
+  {
+    "name": "HDI"
+  },
+  {
+    "name": "HEB"
+  },
+  {
+    "name": "HENKEL"
+  },
+  {
+    "name": "HERSHEYS"
+  },
+  {
+    "name": "HIGH PERFORMANCE PLASTICS"
+  },
+  {
+    "name": "HIR"
+  },
+  {
+    "name": "HM&R"
+  },
+  {
+    "name": "HOLIDAY INN"
+  },
+  {
+    "name": "HOMBRE CLAVE"
+  },
+  {
+    "name": "HSBC"
+  },
+  {
+    "name": "HSBC JUBILADOS"
+  },
+  {
+    "name": "HUMA"
+  },
+  {
+    "name": "HUMA SERVICIOS"
+  },
+  {
+    "name": "HUMAN CLOUD"
+  },
+  {
+    "name": "HYUNDAI MOBIS"
+  },
+  {
+    "name": "ICA"
+  },
+  {
+    "name": "ICONN"
+  },
+  {
+    "name": "IENOVA"
+  },
+  {
+    "name": "IGLESIA DE JESUCRISTO"
+  },
+  {
+    "name": "IGLESIA DE LOS MORMONES"
+  },
+  {
+    "name": "IKE AMAZON"
+  },
+  {
+    "name": "IMMUNOTEC"
+  },
+  {
+    "name": "IMS GEAR"
+  },
+  {
+    "name": "INDITEX"
+  },
+  {
+    "name": "INETUM"
+  },
+  {
+    "name": "INFOASIST"
+  },
+  {
+    "name": "INFONAVIT"
+  },
+  {
+    "name": "INGENICO"
+  },
+  {
+    "name": "INNOMOTICS MOTORS"
+  },
+  {
+    "name": "INNOVACION EN AISLAMIENTO"
+  },
+  {
+    "name": "INTEGON"
+  },
+  {
+    "name": "INTEGRA RRMX2"
+  },
+  {
+    "name": "INTEGRA SALUD"
+  },
+  {
+    "name": "INTEGRALIS"
+  },
+  {
+    "name": "INTERESSE EMPLEADOS"
+  },
+  {
+    "name": "INVEX"
+  },
+  {
+    "name": "INVEX-AMMPER"
+  },
+  {
+    "name": "IQSEC"
+  },
+  {
+    "name": "ITALMEX"
+  },
+  {
+    "name": "ITESM"
+  },
+  {
+    "name": "J.A. DEL RIO"
+  },
+  {
+    "name": "JABNIA"
+  },
+  {
+    "name": "JAFRA"
+  },
+  {
+    "name": "JATCO"
+  },
+  {
+    "name": "JOHN CRANE"
+  },
+  {
+    "name": "JOHN DEERE"
+  },
+  {
+    "name": "JUGOS DEL VALLE"
+  },
+  {
+    "name": "JUMBO"
+  },
+  {
+    "name": "JUSTIA"
+  },
+  {
+    "name": "JUSTIA MEXICO"
+  },
+  {
+    "name": "K2"
+  },
+  {
+    "name": "KAPITALIZER"
+  },
+  {
+    "name": "KATIMI CONSULTORES"
+  },
+  {
+    "name": "KERRY GROUP"
+  },
+  {
+    "name": "KIA MEXICO"
+  },
+  {
+    "name": "KIA MOTORS"
+  },
+  {
+    "name": "KIDZANIA"
+  },
+  {
+    "name": "KOBLENZ"
+  },
+  {
+    "name": "KPMG"
+  },
+  {
+    "name": "KRISPY KREME"
+  },
+  {
+    "name": "KRONES"
+  },
+  {
+    "name": "LA EUROPEA"
+  },
+  {
+    "name": "LA LATINO"
+  },
+  {
+    "name": "LALA"
+  },
+  {
+    "name": "LEASEPLAN"
+  },
+  {
+    "name": "LEGENDARY"
+  },
+  {
+    "name": "LESAFFRE"
+  },
+  {
+    "name": "LIBUS"
+  },
+  {
+    "name": "LIBUS DE MEXICO"
+  },
+  {
+    "name": "LINCOLN"
+  },
+  {
+    "name": "LINDE Y WIEMANN"
+  },
+  {
+    "name": "LIVERPOOL"
+  },
+  {
+    "name": "LOCKTON EMPLEADOS"
+  },
+  {
+    "name": "LOGIC"
+  },
+  {
+    "name": "LOGISTORAGE"
+  },
+  {
+    "name": "LOTTUS"
+  },
+  {
+    "name": "LOUIS VUITTON"
+  },
+  {
+    "name": "MACADAMIA"
+  },
+  {
+    "name": "MAJAHUA"
+  },
+  {
+    "name": "MANCERA"
+  },
+  {
+    "name": "MANOHAY"
+  },
+  {
+    "name": "MANPOWER"
+  },
+  {
+    "name": "MAPFRE"
+  },
+  {
+    "name": "MARRIOTT"
+  },
+  {
+    "name": "MARTI"
+  },
+  {
+    "name": "MARY KAY"
+  },
+  {
+    "name": "MAS SERVICIOS"
+  },
+  {
+    "name": "MAS SERVICIOS EMPLEADOS"
+  },
+  {
+    "name": "MASTERCARD"
+  },
+  {
+    "name": "MAWDY"
+  },
+  {
+    "name": "MAXIMA DISTINCION"
+  },
+  {
+    "name": "MC DONALDS"
+  },
+  {
+    "name": "MEBRESIA DENTALIA"
+  },
+  {
+    "name": "MEDDI"
+  },
+  {
+    "name": "MEDTRONIC"
+  },
+  {
+    "name": "MEGACABLE"
+  },
+  {
+    "name": "MEMBRESIA DENTALIA"
+  },
+  {
+    "name": "MEMBRESIA FAMILIAR DENTALIA"
+  },
+  {
+    "name": "MEMRESIA INDIVIDUAL DENTALIA"
+  },
+  {
+    "name": "MERCADO LIBRE"
+  },
+  {
+    "name": "MERCEDES BENZ"
+  },
+  {
+    "name": "MERCER MARSH"
+  },
+  {
+    "name": "MERITOR"
+  },
+  {
+    "name": "MI DOC ONLINE"
+  },
+  {
+    "name": "MIMETICA"
+  },
+  {
+    "name": "MINTH"
+  },
+  {
+    "name": "MIRAI ADVISORY"
+  },
+  {
+    "name": "MIZUHO BANK"
+  },
+  {
+    "name": "MONTO"
+  },
+  {
+    "name": "MRP"
+  },
+  {
+    "name": "MSD EMPLEADOS"
+  },
+  {
+    "name": "MTP"
+  },
+  {
+    "name": "MURGUIA AFFINITY"
+  },
+  {
+    "name": "MURGUIA EMPLEADOS"
+  },
+  {
+    "name": "NARMX"
+  },
+  {
+    "name": "NATURA"
+  },
+  {
+    "name": "NEMA MOTORS"
+  },
+  {
+    "name": "NEOGEN"
+  },
+  {
+    "name": "NETFLIX"
+  },
+  {
+    "name": "NEWELL"
+  },
+  {
+    "name": "NEXEO"
+  },
+  {
+    "name": "NIPPON"
+  },
+  {
+    "name": "NIPPON SEIKI"
+  },
+  {
+    "name": "NIPPON SEIKI DE MEXICO"
+  },
+  {
+    "name": "NOMINA HABIENTES HSBC"
+  },
+  {
+    "name": "NOMITEK"
+  },
+  {
+    "name": "NOVARTIS"
+  },
+  {
+    "name": "NTT DATA"
+  },
+  {
+    "name": "NXP"
+  },
+  {
+    "name": "OAIN"
+  },
+  {
+    "name": "OCM EMPLEADOS"
+  },
+  {
+    "name": "ODYSSEY"
+  },
+  {
+    "name": "OLIVARES"
+  },
+  {
+    "name": "OML"
+  },
+  {
+    "name": "OMYA"
+  },
+  {
+    "name": "ONE PARK"
+  },
+  {
+    "name": "ONTARIO"
+  },
+  {
+    "name": "OPERACIONES LOGISTICAS RHS"
+  },
+  {
+    "name": "OPERASON / LOCKTON HMO"
+  },
+  {
+    "name": "OPERBUS"
+  },
+  {
+    "name": "OPTIMA MARKETING"
+  },
+  {
+    "name": "ORACLE"
+  },
+  {
+    "name": "ORGANON"
+  },
+  {
+    "name": "OTROS ESTRATEGICOS Y ANTERIORES"
+  },
+  {
+    "name": "OXXO"
+  },
+  {
+    "name": "P&G"
+  },
+  {
+    "name": "PALANUS"
+  },
+  {
+    "name": "PAQUETEXPRESS"
+  },
+  {
+    "name": "PARAMOUNT PICTURES"
+  },
+  {
+    "name": "PAYCLIP"
+  },
+  {
+    "name": "PENGUIEN RANDOM"
+  },
+  {
+    "name": "PENSKE"
+  },
+  {
+    "name": "PEÑAFIEL"
+  },
+  {
+    "name": "PERNOD"
+  },
+  {
+    "name": "PETRONAS"
+  },
+  {
+    "name": "PHILIPS"
+  },
+  {
+    "name": "PLAN SEGURO"
+  },
+  {
+    "name": "PLANUS"
+  },
+  {
+    "name": "PLASKOLITE"
+  },
+  {
+    "name": "PLAYER GROUP"
+  },
+  {
+    "name": "POLAK"
+  },
+  {
+    "name": "PORTAL 3M"
+  },
+  {
+    "name": "PORTAL AFIRME"
+  },
+  {
+    "name": "PORTAL ALPURA"
+  },
+  {
+    "name": "PORTAL AMAZON"
+  },
+  {
+    "name": "PORTAL AMEX"
+  },
+  {
+    "name": "PORTAL AON"
+  },
+  {
+    "name": "PORTAL AON FLEX"
+  },
+  {
+    "name": "PORTAL AON MBS"
+  },
+  {
+    "name": "PORTAL AT&T"
+  },
+  {
+    "name": "PORTAL BANCA MIFEL"
+  },
+  {
+    "name": "PORTAL BASHAM"
+  },
+  {
+    "name": "PORTAL BBVA"
+  },
+  {
+    "name": "PORTAL BONDA"
+  },
+  {
+    "name": "PORTAL BUK"
   },
   {
     "name": "PORTAL C&A"
@@ -918,504 +1161,858 @@
     "name": "PORTAL CARGILL"
   },
   {
-    "name": "POLAK"
-  },
-  {
-    "name": "VITOL"
-  },
-  {
-    "name": "BH SERVICES"
-  },
-  {
-    "name": "COSTCO"
-  },
-  {
-    "name": "LINCOLN"
-  },
-  {
-    "name": "NEWELL"
-  },
-  {
-    "name": "ADMINISTRACIÓN ESTRATEGICA"
-  },
-  {
-    "name": "ADYEN MEXICO"
-  },
-  {
-    "name": "COVESTRO"
-  },
-  {
-    "name": "CONSUBANCO"
-  },
-  {
-    "name": "RIOT GAMES"
-  },
-  {
-    "name": "PRINT EMPLEADOS"
-  },
-  {
-    "name": "EXCOENG"
-  },
-  {
-    "name": "KIA MEXICO"
-  },
-  {
-    "name": "BYD"
-  },
-  {
-    "name": "FLSMIDTH"
-  },
-  {
-    "name": "CIRSE"
-  },
-  {
-    "name": "REVISIONES EN SITIO COMERCIAL"
-  },
-  {
-    "name": "ODYSSEY"
-  },
-  {
-    "name": "BRIDGESTONE"
-  },
-  {
-    "name": "PORTAL MEXIS"
-  },
-  {
-    "name": "SILVER TORCH"
-  },
-  {
-    "name": "CHEP DE MEXICO"
-  },
-  {
-    "name": "HIGH PERFORMANCE PLASTICS"
-  },
-  {
-    "name": "TECH VENTURES"
-  },
-  {
-    "name": "FOXCONN"
-  },
-  {
-    "name": "DESARROLLADORA MIRA"
-  },
-  {
-    "name": "JUMBO"
-  },
-  {
-    "name": "GCA DE MEXICO"
-  },
-  {
-    "name": "KIA MOTORS"
-  },
-  {
-    "name": "PORTAL COMPASS GROUP"
-  },
-  {
-    "name": "PORTAL AT&T"
-  },
-  {
-    "name": "AVIAT NETWORK"
-  },
-  {
-    "name": "OG SMART SOLUTIONS/SPROULE/ADINCO"
-  },
-  {
-    "name": "LEASEPLAN"
-  },
-  {
-    "name": "DAVILA LOPEZ"
-  },
-  {
-    "name": "ZSCALER"
-  },
-  {
-    "name": "TECH DATA"
-  },
-  {
-    "name": "GAM"
-  },
-  {
-    "name": "AMNU"
-  },
-  {
-    "name": "BEKAERT TRADE"
-  },
-  {
-    "name": "PORTAL BASHAM"
-  },
-  {
-    "name": "MIZUHO BANK"
-  },
-  {
-    "name": "XIGNUX"
-  },
-  {
-    "name": "BAYER SEMILLAS Y AGROPRODUCTOS MONSANTO"
-  },
-  {
-    "name": "SOLUCIONES HEXAGONO"
-  },
-  {
-    "name": "PORTAL SGS"
-  },
-  {
-    "name": "VENTAGIUM"
-  },
-  {
-    "name": "KOBLENZ"
-  },
-  {
-    "name": "PARAMOUNT PICTURES"
-  },
-  {
-    "name": "MAJAHUA RESORTS"
-  },
-  {
-    "name": "SCALABBLE PRESS"
-  },
-  {
-    "name": "PULSIAM"
-  },
-  {
-    "name": "CONDE NAST"
-  },
-  {
-    "name": "NEXEO"
-  },
-  {
-    "name": "MIRAI ADVISORY"
-  },
-  {
-    "name": "WASSERMAN MEXICO"
-  },
-  {
-    "name": "PORTAL ROCA DESARROLLOS"
-  },
-  {
-    "name": "GNP ALPURA"
-  },
-  {
-    "name": "EXSE ASESORES EN SEGUROS"
-  },
-  {
-    "name": "CASPEX"
-  },
-  {
-    "name": "COMERCIAL"
-  },
-  {
-    "name": "AIT WORLDWIDE LOGISTICS"
-  },
-  {
-    "name": "GTA TELECOMM"
-  },
-  {
-    "name": "PETRONAS"
-  },
-  {
-    "name": "LOGIC"
-  },
-  {
-    "name": "CLUB SAN LUIS"
-  },
-  {
-    "name": "PORTAL AMAZON"
-  },
-  {
-    "name": "BASHAM"
-  },
-  {
-    "name": "ADMINISTRADORA DE CENTROS COMERCIALES"
-  },
-  {
-    "name": "OCM EMPLEADOS"
-  },
-  {
-    "name": "PORTAL HILEX"
-  },
-  {
-    "name": "HM&R"
-  },
-  {
-    "name": "HUMAN CLOUD"
-  },
-  {
-    "name": "PORTAL INTERCAM"
-  },
-  {
-    "name": "INTEGON"
-  },
-  {
-    "name": "PORTAL IKE"
-  },
-  {
-    "name": "PORTAL KIDZANIA"
-  },
-  {
-    "name": "GRUPO INDRA"
-  },
-  {
-    "name": "GRUPO BAL"
-  },
-  {
-    "name": "REGAL SPRINGS"
-  },
-  {
-    "name": "PORTAL GRUPO MARTI"
-  },
-  {
-    "name": "AMPHENOL"
-  },
-  {
-    "name": "PORTAL DAIMLER MANUFACTURA"
-  },
-  {
-    "name": "ARCA CONTINENTAL"
-  },
-  {
-    "name": "TERRA"
-  },
-  {
-    "name": "PORTAL SECRETARIA DE CULTURA"
-  },
-  {
-    "name": "COMPARAGURU"
-  },
-  {
-    "name": "PORTAL ALPURA"
-  },
-  {
-    "name": "ADDIUVA"
-  },
-  {
-    "name": "SEKURA BLU ASSISTANCE"
-  },
-  {
-    "name": "ESTAFETA"
-  },
-  {
-    "name": "MACADAMIA"
-  },
-  {
-    "name": "PORTAL CLASE AZUL"
-  },
-  {
-    "name": "CUPONERAPP"
-  },
-  {
-    "name": "SWIFT"
-  },
-  {
-    "name": "SEMPRA"
-  },
-  {
-    "name": "PORTAL VANGUARDIA PII"
-  },
-  {
-    "name": "RHC AGUA PRIETA"
-  },
-  {
-    "name": "PORTAL LA COSTEÑA"
-  },
-  {
-    "name": "LIBUS DE MEXICO"
-  },
-  {
-    "name": "PORTAL CLUB DE GOLF CHAPULTEPEC"
-  },
-  {
-    "name": "SCANIA"
-  },
-  {
-    "name": "BEFRA"
-  },
-  {
-    "name": "PORTAL TRANE"
-  },
-  {
-    "name": "ENDAVA"
-  },
-  {
-    "name": "BAISHENG"
-  },
-  {
-    "name": "J.A. DEL RIO"
-  },
-  {
-    "name": "BURO DE CREDITO"
-  },
-  {
-    "name": "PORTAL IBEROSTAR"
-  },
-  {
-    "name": "PORTAL J.A DEL RIO"
-  },
-  {
-    "name": "NETFLIX"
-  },
-  {
-    "name": "PORTAL CAMARA DE DIPUTADOS"
-  },
-  {
-    "name": "SURGICAL SPECIALTIES"
-  },
-  {
-    "name": "HEB"
-  },
-  {
-    "name": "KERRY GROUP"
-  },
-  {
-    "name": "OMYA"
-  },
-  {
-    "name": "CWL"
+    "name": "PORTAL CIBERGESTION"
   },
   {
     "name": "PORTAL CINEPOLIS"
   },
   {
-    "name": "GRUNDFOS"
+    "name": "PORTAL CLASE AZUL"
   },
   {
-    "name": "INGENICO"
+    "name": "PORTAL CLUB DE GOLF CHAPULTEPEC"
   },
   {
-    "name": "VINMAR"
+    "name": "PORTAL COMPASS GROUP"
   },
   {
-    "name": "PLASKOLITE"
+    "name": "PORTAL DAIMLER MANUFACTURA"
   },
   {
-    "name": "EUROPARTNERS"
+    "name": "PORTAL DILTEX"
   },
   {
-    "name": "LINDE Y WIEMANN"
+    "name": "PORTAL GENERAL ELECTRIC"
   },
   {
-    "name": "PORTAL PROGA"
+    "name": "PORTAL GRUPO DILTEX"
   },
   {
-    "name": "MEDTRONIC"
+    "name": "PORTAL GRUPO MARTI"
   },
   {
-    "name": "OUTSHINE"
+    "name": "PORTAL HILEX"
   },
   {
-    "name": "ONTARIO DIE"
+    "name": "PORTAL IBEROSTAR"
   },
   {
-    "name": "PORTAL EL PUERTO DE LIVERPOOL"
+    "name": "PORTAL ICA"
   },
   {
-    "name": "PORTAL GAM"
+    "name": "PORTAL IKE"
   },
   {
-    "name": "GWP CONSULTORES"
+    "name": "PORTAL INDITEX"
   },
   {
-    "name": "MEDIA MONKS"
+    "name": "PORTAL INFOSYS"
   },
   {
-    "name": "KAPITALIZER"
+    "name": "PORTAL INTEGRA RRMX2"
   },
   {
-    "name": "PORTAL KPMG"
+    "name": "PORTAL INTERCAM"
   },
   {
-    "name": "NIBCO"
+    "name": "PORTAL J.A DEL RIO"
   },
   {
-    "name": "DUPONT"
+    "name": "PORTAL KIDZANIA"
   },
   {
-    "name": "GRT"
+    "name": "PORTAL LA COSTEÑA"
   },
   {
-    "name": "FARMACOS DAROVI"
+    "name": "PORTAL MEXIS"
   },
   {
-    "name": "LOGISTORAGE"
+    "name": "PORTAL NATURA"
   },
   {
-    "name": "AUNTAPI MEXICO"
+    "name": "PORTAL NATURGY"
   },
   {
-    "name": "MERCADO LIBRE"
+    "name": "PORTAL NTT DATA"
   },
   {
-    "name": "MAS SERVICIOS EMPLEADOS"
-  },
-  {
-    "name": "ONE PARK"
+    "name": "PORTAL P&G"
   },
   {
     "name": "PORTAL RHEEM"
   },
   {
+    "name": "PORTAL ROCA DESARROLLOS"
+  },
+  {
+    "name": "PORTAL SANTANDER"
+  },
+  {
+    "name": "PORTAL SECRETARIA DE CULTURA"
+  },
+  {
+    "name": "PORTAL SEKURA"
+  },
+  {
+    "name": "PORTAL SGS"
+  },
+  {
+    "name": "PORTAL SIEMENS"
+  },
+  {
     "name": "PORTAL SMITHS"
   },
   {
-    "name": "VITTI"
+    "name": "PORTAL TRANE"
   },
   {
-    "name": "K2"
+    "name": "PORTAL VANGUARDIA PII"
   },
   {
-    "name": "ATLAS COPCO"
+    "name": "PORTAL VIVA AEROBUS"
   },
   {
-    "name": "MONTO"
+    "name": "PORTAL WEBBER"
   },
   {
-    "name": "GNP"
+    "name": "PORTAL WILLIS"
   },
   {
-    "name": "SOFIA SEGUROS"
+    "name": "PPG"
   },
   {
-    "name": "MAPFRE"
+    "name": "PRINCIPAL"
   },
   {
-    "name": "PLAN SEGURO"
+    "name": "PRINT EMPLEADOS"
   },
   {
-    "name": "AXA"
+    "name": "PROCESAR"
   },
   {
-    "name": "BUPA"
+    "name": "PROGA INSURANCE"
   },
   {
-    "name": "LA LATINO"
+    "name": "PROMAX"
   },
   {
-    "name": "BBVA"
+    "name": "PROMO VALUES"
   },
   {
-    "name": "ASISMED"
+    "name": "PROSA"
   },
   {
-    "name": "COMPARTAMOS"
+    "name": "PROSPECTOS"
   },
   {
-    "name": "HDI"
+    "name": "PROTEXA"
   },
   {
-    "name": "AMASFAC"
+    "name": "PROVEEDORA DE INTELIGENCIA GENESIS"
+  },
+  {
+    "name": "PS"
+  },
+  {
+    "name": "PULSIAM"
+  },
+  {
+    "name": "PUMA"
+  },
+  {
+    "name": "PURATOS"
+  },
+  {
+    "name": "QUALAMEX"
+  },
+  {
+    "name": "QUALCOMM"
+  },
+  {
+    "name": "QUINTILES"
+  },
+  {
+    "name": "RACKSPACE"
+  },
+  {
+    "name": "RAPISCAN SYSTEMS"
+  },
+  {
+    "name": "RAUDA CONSULTORES"
+  },
+  {
+    "name": "RED VOUCHER"
+  },
+  {
+    "name": "REGAL SPRINGS"
+  },
+  {
+    "name": "REINA MADRE"
+  },
+  {
+    "name": "REVISIONES EN SITIO COMERCIAL"
+  },
+  {
+    "name": "RHC AGUA PRIETA"
+  },
+  {
+    "name": "RHEEM"
+  },
+  {
+    "name": "RIOT GAMES"
+  },
+  {
+    "name": "RISOUL"
+  },
+  {
+    "name": "ROCA"
+  },
+  {
+    "name": "ROCHE"
+  },
+  {
+    "name": "SABIC"
+  },
+  {
+    "name": "SALLES, SAINZ-GRANT THORNTON"
+  },
+  {
+    "name": "SANDEN"
+  },
+  {
+    "name": "SANDOZ"
+  },
+  {
+    "name": "SANOFI"
+  },
+  {
+    "name": "SAS-INSTITUTE"
+  },
+  {
+    "name": "SCALABBLE PRESS"
+  },
+  {
+    "name": "SCANIA"
+  },
+  {
+    "name": "SCHNEIDER"
+  },
+  {
+    "name": "SEGUROS SURA"
+  },
+  {
+    "name": "SEKURA"
+  },
+  {
+    "name": "SEKURA BLU ASSISTANCE"
+  },
+  {
+    "name": "SERADRI"
+  },
+  {
+    "name": "SERVICIOS CUPRUM"
+  },
+  {
+    "name": "SERVIPRO"
+  },
+  {
+    "name": "SGS"
+  },
+  {
+    "name": "SGS MEXICO"
+  },
+  {
+    "name": "SHURE MEXICO"
+  },
+  {
+    "name": "SIEMENS"
+  },
+  {
+    "name": "SIKA MEXICANA"
+  },
+  {
+    "name": "SILVER TORCH"
   },
   {
     "name": "SISNOVA"
   },
   {
-    "name": "MAWDY"
+    "name": "SMPS ADINCO"
+  },
+  {
+    "name": "SMURFIT"
+  },
+  {
+    "name": "SOAINT"
+  },
+  {
+    "name": "SOAINT MEXICO"
+  },
+  {
+    "name": "SOCIOS"
+  },
+  {
+    "name": "SODEXO"
+  },
+  {
+    "name": "SOFIA SEGUROS"
+  },
+  {
+    "name": "SOLUCIONES HEXAGONO"
+  },
+  {
+    "name": "SOPORTE EN PARALELO"
+  },
+  {
+    "name": "SOS"
   },
   {
     "name": "SOY +"
   },
   {
-    "name": "GENERAL DE SALUD"
+    "name": "SOY+"
   },
   {
-    "name": "MEMBRESIA DENTALIA"
+    "name": "STARLIGHT"
+  },
+  {
+    "name": "STRYKER"
+  },
+  {
+    "name": "SUNGWOO"
+  },
+  {
+    "name": "SURGICAL SPECIALTIES"
+  },
+  {
+    "name": "SWIFT"
+  },
+  {
+    "name": "SWISS RE"
+  },
+  {
+    "name": "TBC"
+  },
+  {
+    "name": "TE CUIDO TU SONRISA"
+  },
+  {
+    "name": "TEADS"
+  },
+  {
+    "name": "TECH DATA"
+  },
+  {
+    "name": "TECH VENTURES"
+  },
+  {
+    "name": "TECMILENIO"
+  },
+  {
+    "name": "TELEFONICA PEGASO"
+  },
+  {
+    "name": "TERRA"
+  },
+  {
+    "name": "TERUMO"
+  },
+  {
+    "name": "TESA TAPE"
+  },
+  {
+    "name": "THE ANGLO"
+  },
+  {
+    "name": "THYSSENKRUPP"
+  },
+  {
+    "name": "TIFFANY & CO MEXICO"
+  },
+  {
+    "name": "TORRE MAYOR Y REICHMANN"
+  },
+  {
+    "name": "TQS"
+  },
+  {
+    "name": "TRANE"
+  },
+  {
+    "name": "TUPPERWARE"
+  },
+  {
+    "name": "TURISMO MEDICO FRONTERA"
+  },
+  {
+    "name": "TUTO ENERGY"
+  },
+  {
+    "name": "URS"
+  },
+  {
+    "name": "URS CORPORATION"
+  },
+  {
+    "name": "VALVOLINE"
+  },
+  {
+    "name": "VECTOR"
+  },
+  {
+    "name": "VEEDA"
+  },
+  {
+    "name": "VELFARE"
+  },
+  {
+    "name": "VENTAGIUM"
+  },
+  {
+    "name": "VICTOR EQUIPMENT"
+  },
+  {
+    "name": "VINMAR"
+  },
+  {
+    "name": "VISKASE DEL NORTE"
+  },
+  {
+    "name": "VITOL"
+  },
+  {
+    "name": "VIVA AEROBUS"
+  },
+  {
+    "name": "VIVA WELL"
+  },
+  {
+    "name": "VOLARIS"
+  },
+  {
+    "name": "VOORDEEL"
+  },
+  {
+    "name": "VOORDEL"
+  },
+  {
+    "name": "VS DEVELOPMENT"
+  },
+  {
+    "name": "WASSERMAN MEXICO"
+  },
+  {
+    "name": "WEBBER ASESORES"
+  },
+  {
+    "name": "WERNER"
+  },
+  {
+    "name": "WEWORK"
+  },
+  {
+    "name": "WILLIS"
+  },
+  {
+    "name": "WITZENMANN"
+  },
+  {
+    "name": "WORLEY"
+  },
+  {
+    "name": "WS SERVICIOS DE MEXICO"
+  },
+  {
+    "name": "XIGNUX"
+  },
+  {
+    "name": "ZENDERE"
+  },
+  {
+    "name": "ZSCALER"
+  },
+  {
+    "name": "1DOC3"
+  },
+  {
+    "name": "ACCENTURE SERVICES"
+  },
+  {
+    "name": "AFIRME"
+  },
+  {
+    "name": "ALFA TOP"
+  },
+  {
+    "name": "ALPURA"
+  },
+  {
+    "name": "AMAZON"
+  },
+  {
+    "name": "ANCORA"
+  },
+  {
+    "name": "ANCORA PORTAL"
+  },
+  {
+    "name": "ANEMEX"
+  },
+  {
+    "name": "AON FLEX"
+  },
+  {
+    "name": "AON MEXICO BUSSINES SUPPORT"
+  },
+  {
+    "name": "AON RISK SOLUTIONS"
+  },
+  {
+    "name": "AROCHI & LINDNER"
+  },
+  {
+    "name": "ASOCIACION MEXICANA PARA LAS NACIONES UNIDAS DE JOVENES AMNU JOVENES A.C."
+  },
+  {
+    "name": "AXA ASSISTANCE"
+  },
+  {
+    "name": "AXA SEGUROS"
+  },
+  {
+    "name": "B4U"
+  },
+  {
+    "name": "BBVA ENERO"
+  },
+  {
+    "name": "BBVA MAYO"
+  },
+  {
+    "name": "BBVA PORTAL"
+  },
+  {
+    "name": "BONDA"
+  },
+  {
+    "name": "BONNUS"
+  },
+  {
+    "name": "BOSCO SEGUROS"
+  },
+  {
+    "name": "BUPA SEGUROS"
+  },
+  {
+    "name": "CAE INSURANCE"
+  },
+  {
+    "name": "CALIMAX"
+  },
+  {
+    "name": "CAPRIO ASSICURAZIONI"
+  },
+  {
+    "name": "CHAZ (CHAVEZ Y ASOCIADOS)"
+  },
+  {
+    "name": "CINEPOLIS MAYO"
+  },
+  {
+    "name": "CINEPOLIS PORTAL"
+  },
+  {
+    "name": "CLUB DE GOLF CHAPULTEPC"
+  },
+  {
+    "name": "CRANE"
+  },
+  {
+    "name": "CUPONERAPP G2"
+  },
+  {
+    "name": "DAIMLER MANUFACTURA"
+  },
+  {
+    "name": "DANONE"
+  },
+  {
+    "name": "DAVILA LOPEZ ASESORES"
+  },
+  {
+    "name": "DESCLUB"
+  },
+  {
+    "name": "DHL PORTAL"
+  },
+  {
+    "name": "DIDI CARD"
+  },
+  {
+    "name": "EL PALACIO DE HIERRO"
+  },
+  {
+    "name": "EL PUERTO DE LIVERPOOL"
+  },
+  {
+    "name": "EMPLEADOS WTW"
+  },
+  {
+    "name": "ERICKA PATRICIA REYNA GUTIERREZ"
+  },
+  {
+    "name": "ES VIDA"
+  },
+  {
+    "name": "FEDERACION MEXICANA DE FUTBOL"
+  },
+  {
+    "name": "FIT STUDIO FSC"
+  },
+  {
+    "name": "GAMBROKER"
+  },
+  {
+    "name": "GAYOSSO"
+  },
+  {
+    "name": "GE MEDICAL SYSTEMS"
+  },
+  {
+    "name": "GENERAL DE SEGUROS"
+  },
+  {
+    "name": "GENERAL ELECTRIC FAMILIARES"
+  },
+  {
+    "name": "GLOBAL ASSURANCE"
+  },
+  {
+    "name": "GRUPO ALEN"
+  },
+  {
+    "name": "GRUPO COMERCIAL CONTROL SA DE CV"
+  },
+  {
+    "name": "GRUPO ORDAS HOWDEN"
+  },
+  {
+    "name": "GRUPO PROEZA"
+  },
+  {
+    "name": "GRUPO VALORE"
+  },
+  {
+    "name": "GUNTNER DE MEXICO"
+  },
+  {
+    "name": "GWP CONSULTORES"
+  },
+  {
+    "name": "HEIVA"
+  },
+  {
+    "name": "HILEX"
+  },
+  {
+    "name": "IBEROSTAR"
+  },
+  {
+    "name": "IGS"
+  },
+  {
+    "name": "IKE"
+  },
+  {
+    "name": "IKE AXA HOGAR"
+  },
+  {
+    "name": "INDUSTRIAS RHEEM"
+  },
+  {
+    "name": "INFOSYS"
+  },
+  {
+    "name": "INSTITUTO TECNOLOGICO DE ESTUDIOS SUPERIORES MONTERREY"
+  },
+  {
+    "name": "INTEGRA RRMX2 WALMART"
+  },
+  {
+    "name": "INTERESSE"
+  },
+  {
+    "name": "INTERPROTECCION"
+  },
+  {
+    "name": "KALIFA CONSULTORES"
+  },
+  {
+    "name": "KDN"
+  },
+  {
+    "name": "KOF (FEMSA)"
+  },
+  {
+    "name": "LABORATORIOS SILANES"
+  },
+  {
+    "name": "LOCKTON MEXICO"
+  },
+  {
+    "name": "MACMILLAN"
+  },
+  {
+    "name": "MAP AGENTE DE SEGUROS Y DE FIANZAS"
+  },
+  {
+    "name": "MARSH"
+  },
+  {
+    "name": "MARSH & MCLENNAN"
+  },
+  {
+    "name": "MAS SERVICIOS PORTAL"
+  },
+  {
+    "name": "MAYPO SA DE CV"
+  },
+  {
+    "name": "MERIT"
+  },
+  {
+    "name": "MEYAH"
+  },
+  {
+    "name": "MI DOC"
+  },
+  {
+    "name": "MONTO NORTE"
+  },
+  {
+    "name": "MURGUIA"
+  },
+  {
+    "name": "MURGUIA CONSULTORES"
+  },
+  {
+    "name": "MURGUIA PORTAL"
+  },
+  {
+    "name": "NATURGY"
+  },
+  {
+    "name": "NORMA GABRIELA ESCORZA"
+  },
+  {
+    "name": "NTT DATA SERVICES MEXICO OPERATIONS"
+  },
+  {
+    "name": "OLIVARES Y CIA"
+  },
+  {
+    "name": "ONESTA AGENTE DE SEGUROS"
+  },
+  {
+    "name": "OPTIMA MARKETING SYSTEMS"
+  },
+  {
+    "name": "P&G LIMPIEZA"
+  },
+  {
+    "name": "P&G LIMPIEZA ALCEBLANCO"
+  },
+  {
+    "name": "PRANA BENEFICIOS"
+  },
+  {
+    "name": "PROAX"
+  },
+  {
+    "name": "PROGA SEGUROS"
+  },
+  {
+    "name": "QUALFON"
+  },
+  {
+    "name": "RAUDA"
+  },
+  {
+    "name": "RISCO"
+  },
+  {
+    "name": "ROCA DESARROLLOS"
+  },
+  {
+    "name": "S MAS F"
+  },
+  {
+    "name": "SANTANDER"
+  },
+  {
+    "name": "SEGUDIRECTO"
+  },
+  {
+    "name": "SEGUROS ATLAS"
+  },
+  {
+    "name": "SEGUROS BBVA"
+  },
+  {
+    "name": "SEKURA AER"
+  },
+  {
+    "name": "SGS DE MEXICO"
+  },
+  {
+    "name": "SIEMENS EMPLEADOS"
+  },
+  {
+    "name": "SIEMENS FAMILY & FRIENDS"
+  },
+  {
+    "name": "SMI"
+  },
+  {
+    "name": "SMITHS"
+  },
+  {
+    "name": "SOLUCIONES DENTALES TQS"
+  },
+  {
+    "name": "SOMOS MINA"
+  },
+  {
+    "name": "SOY + AT&T"
+  },
+  {
+    "name": "SOY MAS"
+  },
+  {
+    "name": "TARS"
+  },
+  {
+    "name": "TECTUM"
+  },
+  {
+    "name": "TRANSACTION DATA MANAGEMENT"
+  },
+  {
+    "name": "UNIVERSIDAD IBEROAMERICANA LEON"
+  },
+  {
+    "name": "VANGUARDIA PROTECCION INTEGRAL INTELIGENTE"
+  },
+  {
+    "name": "VEEDA BIENESTAR"
+  },
+  {
+    "name": "VIVAAEROBUS"
+  },
+  {
+    "name": "WTW ABC AFFINITY"
+  },
+  {
+    "name": "XPD GLOBAL"
   }
 ]
